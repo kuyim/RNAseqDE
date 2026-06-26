@@ -1,0 +1,6 @@
+.nextflow.log.*
+.nextflow/
+.venv/
+.vscode/
+null/
+work/

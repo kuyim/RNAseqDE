@@ -1,0 +1,7 @@
+CUSTOM_GTFFILTER:
+  python: 3.9.5
+CUSTOM_TX2GENE:
+  python: 3.10.4
+Workflow:
+    nf-core/rnaseq: v3.26.0-ge7ca462
+    Nextflow: 25.04.6

@@ -1,0 +1,4 @@
+Sample	python	nf-core/rnaseq	Nextflow
+CUSTOM_GTFFILTER	3.9.5		
+CUSTOM_TX2GENE	3.10.4		
+Workflow		v3.26.0-ge7ca462	25.04.6

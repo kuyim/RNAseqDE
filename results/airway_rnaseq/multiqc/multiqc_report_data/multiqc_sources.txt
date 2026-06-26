@@ -1,0 +1,57 @@
+Module	Section	Sample Name	Source
+Salmon	all_sections	SRX384349	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/58/SRX384349/libParams/flenDist.txt
+Salmon	all_sections	SRX384353	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/53/SRX384353/libParams/flenDist.txt
+Salmon	all_sections	SRX384354	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/55/SRX384354/libParams/flenDist.txt
+Salmon	all_sections	SRX384358	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/54/SRX384358/libParams/flenDist.txt
+Salmon	all_sections	SRX384350	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/52/SRX384350/libParams/flenDist.txt
+Salmon	all_sections	SRX384357	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/56/SRX384357/libParams/flenDist.txt
+Salmon	all_sections	SRX384345	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/39/SRX384345/libParams/flenDist.txt
+Salmon	all_sections	SRX384346	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/57/SRX384346/libParams/flenDist.txt
+FastQC (raw)	all_sections	SRX384345_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/11/SRX384345_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX384345_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/12/SRX384345_raw_2_fastqc.zip
+FastQC (raw)	all_sections	SRX384346_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/40/SRX384346_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX384346_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/41/SRX384346_raw_2_fastqc.zip
+FastQC (raw)	all_sections	SRX384349_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/5/SRX384349_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX384349_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/6/SRX384349_raw_2_fastqc.zip
+FastQC (raw)	all_sections	SRX384350_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/9/SRX384350_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX384350_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/10/SRX384350_raw_2_fastqc.zip
+FastQC (raw)	all_sections	SRX384353_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/46/SRX384353_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX384353_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/47/SRX384353_raw_2_fastqc.zip
+FastQC (raw)	all_sections	SRX384354_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/3/SRX384354_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX384354_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/4/SRX384354_raw_2_fastqc.zip
+FastQC (raw)	all_sections	SRX384357_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/13/SRX384357_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX384357_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/14/SRX384357_raw_2_fastqc.zip
+FastQC (raw)	all_sections	SRX384358_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/7/SRX384358_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX384358_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/8/SRX384358_raw_2_fastqc.zip
+Cutadapt	all_sections	SRX384345_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/19/SRX384345_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX384345_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/20/SRX384345_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX384346_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/42/SRX384346_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX384346_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/43/SRX384346_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX384349_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/48/SRX384349_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX384349_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/49/SRX384349_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX384350_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/15/SRX384350_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX384350_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/16/SRX384350_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX384353_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/27/SRX384353_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX384353_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/28/SRX384353_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX384354_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/31/SRX384354_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX384354_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/32/SRX384354_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX384357_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/35/SRX384357_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX384357_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/36/SRX384357_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX384358_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/29/SRX384358_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX384358_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/30/SRX384358_trimmed_2.fastq.gz_trimming_report.txt
+FastQC (trimmed)	all_sections	SRX384345_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/21/SRX384345_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX384345_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/22/SRX384345_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX384346_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/44/SRX384346_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX384346_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/45/SRX384346_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX384349_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/50/SRX384349_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX384349_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/51/SRX384349_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX384350_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/17/SRX384350_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX384350_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/18/SRX384350_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX384353_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/23/SRX384353_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX384353_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/24/SRX384353_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX384354_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/33/SRX384354_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX384354_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/34/SRX384354_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX384357_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/37/SRX384357_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX384357_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/38/SRX384357_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX384358_1	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/25/SRX384358_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX384358_2	/root/rnaseqde/work/96/1095246f63400ea5299142a31b50b6/26/SRX384358_trimmed_2_val_2_fastqc.zip
