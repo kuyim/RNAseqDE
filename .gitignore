@@ -4,3 +4,5 @@
 .vscode/
 null/
 work/
+.RData
+.Rhistory

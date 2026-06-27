@@ -1,0 +1,1606 @@
+analysis,ID,Description,p.adjust,NES,direction
+GO_ORA,GO:0001944,vasculature development,1.0708945708946821e-16,NA,enriched
+GO_ORA,GO:0001568,blood vessel development,2.422792824334442e-16,NA,enriched
+GO_ORA,GO:0048514,blood vessel morphogenesis,1.1567679203104977e-15,NA,enriched
+GO_ORA,GO:0030198,extracellular matrix organization,5.516768297896746e-15,NA,enriched
+GO_ORA,GO:0043062,extracellular structure organization,5.516768297896746e-15,NA,enriched
+GO_ORA,GO:0035239,tube morphogenesis,5.516768297896746e-15,NA,enriched
+GO_ORA,GO:0003013,circulatory system process,7.368041332831654e-15,NA,enriched
+GO_ORA,GO:0001525,angiogenesis,7.368041332831654e-15,NA,enriched
+GO_ORA,GO:0008015,blood circulation,7.368041332831654e-15,NA,enriched
+GO_ORA,GO:0045229,external encapsulating structure organization,9.216328739466978e-15,NA,enriched
+GO_ORA,GO:0070848,response to growth factor,4.7119664731573834e-12,NA,enriched
+GO_ORA,GO:0071363,cellular response to growth factor stimulus,2.3570417276391513e-11,NA,enriched
+GO_ORA,GO:0009887,animal organ morphogenesis,6.777255049090416e-11,NA,enriched
+GO_ORA,GO:0007169,cell surface receptor protein tyrosine kinase signaling pathway,5.199650766119548e-10,NA,enriched
+GO_ORA,GO:0060429,epithelium development,5.271446608349604e-10,NA,enriched
+GO_ORA,GO:0040017,positive regulation of locomotion,9.672958264204596e-10,NA,enriched
+GO_ORA,GO:0030335,positive regulation of cell migration,1.3031720376303314e-9,NA,enriched
+GO_ORA,GO:2000147,positive regulation of cell motility,1.869067019423712e-9,NA,enriched
+GO_ORA,GO:0030155,regulation of cell adhesion,1.1544773301495781e-8,NA,enriched
+GO_ORA,GO:0050673,epithelial cell proliferation,2.7303981841793944e-8,NA,enriched
+GO_ORA,GO:0044057,regulation of system process,3.83562130977275e-8,NA,enriched
+GO_ORA,GO:1901699,cellular response to nitrogen compound,5.2806563526262596e-8,NA,enriched
+GO_ORA,GO:0006935,chemotaxis,7.558749773375496e-8,NA,enriched
+GO_ORA,GO:0042330,taxis,7.558749773375496e-8,NA,enriched
+GO_ORA,GO:0000165,MAPK cascade,8.146132189148998e-8,NA,enriched
+GO_ORA,GO:0050678,regulation of epithelial cell proliferation,1.1152986380586827e-7,NA,enriched
+GO_ORA,GO:0070482,response to oxygen levels,1.1152986380586827e-7,NA,enriched
+GO_ORA,GO:0007015,actin filament organization,1.6338784111458287e-7,NA,enriched
+GO_ORA,GO:0009611,response to wounding,3.160753826823654e-7,NA,enriched
+GO_ORA,GO:0043434,response to peptide hormone,4.936599153380625e-7,NA,enriched
+GO_ORA,GO:0090257,regulation of muscle system process,4.936599153380625e-7,NA,enriched
+GO_ORA,GO:0008285,negative regulation of cell population proliferation,4.959345162625036e-7,NA,enriched
+GO_ORA,GO:0045596,negative regulation of cell differentiation,5.108640810514251e-7,NA,enriched
+GO_ORA,GO:0032970,regulation of actin filament-based process,5.318570862401202e-7,NA,enriched
+GO_ORA,GO:0003018,vascular process in circulatory system,5.323680455778713e-7,NA,enriched
+GO_ORA,GO:0032870,cellular response to hormone stimulus,8.110973382615518e-7,NA,enriched
+GO_ORA,GO:0036293,response to decreased oxygen levels,8.17437320706835e-7,NA,enriched
+GO_ORA,GO:0043408,regulation of MAPK cascade,9.889277103498861e-7,NA,enriched
+GO_ORA,GO:0060326,cell chemotaxis,1.142731095556303e-6,NA,enriched
+GO_ORA,GO:0001666,response to hypoxia,1.219197131549488e-6,NA,enriched
+GO_ORA,GO:0009410,response to xenobiotic stimulus,1.4171038220978478e-6,NA,enriched
+GO_ORA,GO:0043410,positive regulation of MAPK cascade,1.4171038220978478e-6,NA,enriched
+GO_ORA,GO:0043588,skin development,1.6164182469502348e-6,NA,enriched
+GO_ORA,GO:0003012,muscle system process,1.7835803109333042e-6,NA,enriched
+GO_ORA,GO:0030001,metal ion transport,1.8456343661745416e-6,NA,enriched
+GO_ORA,GO:0043269,regulation of monoatomic ion transport,2.4163519674299016e-6,NA,enriched
+GO_ORA,GO:0048729,tissue morphogenesis,2.5280208395144803e-6,NA,enriched
+GO_ORA,GO:0035924,cellular response to vascular endothelial growth factor stimulus,2.9527835372836927e-6,NA,enriched
+GO_ORA,GO:0042060,wound healing,3.300018045074681e-6,NA,enriched
+GO_ORA,GO:0010959,regulation of metal ion transport,3.300018045074681e-6,NA,enriched
+GO_ORA,GO:1903522,regulation of blood circulation,3.81209776687417e-6,NA,enriched
+GO_ORA,GO:0060485,mesenchyme development,4.5368497341036985e-06,NA,enriched
+GO_ORA,GO:0071375,cellular response to peptide hormone stimulus,4.5368497341036985e-06,NA,enriched
+GO_ORA,GO:1901342,regulation of vasculature development,4.5368497341036985e-06,NA,enriched
+GO_ORA,GO:0007411,axon guidance,4.5368497341036985e-06,NA,enriched
+GO_ORA,GO:0045765,regulation of angiogenesis,4.86836402450892e-6,NA,enriched
+GO_ORA,GO:2000146,negative regulation of cell motility,5.315448689852222e-6,NA,enriched
+GO_ORA,GO:0007160,cell-matrix adhesion,5.53516998179694e-6,NA,enriched
+GO_ORA,GO:0040013,negative regulation of locomotion,6.0447548910885675e-6,NA,enriched
+GO_ORA,GO:0043542,endothelial cell migration,6.0447548910885675e-6,NA,enriched
+GO_ORA,GO:0097485,neuron projection guidance,6.0447548910885675e-6,NA,enriched
+GO_ORA,GO:0030855,epithelial cell differentiation,7.613137657073681e-6,NA,enriched
+GO_ORA,GO:0048871,multicellular organismal-level homeostasis,9.529245550729896e-6,NA,enriched
+GO_ORA,GO:0060047,heart contraction,1.0031639421268346e-5,NA,enriched
+GO_ORA,GO:0031589,cell-substrate adhesion,1.0031639421268346e-5,NA,enriched
+GO_ORA,GO:0030336,negative regulation of cell migration,1.0031639421268346e-5,NA,enriched
+GO_ORA,GO:0030199,collagen fibril organization,1.0567724851184906e-5,NA,enriched
+GO_ORA,GO:0043270,positive regulation of monoatomic ion transport,1.0567724851184906e-5,NA,enriched
+GO_ORA,GO:0007162,negative regulation of cell adhesion,1.0567724851184906e-5,NA,enriched
+GO_ORA,GO:0030097,hemopoiesis,1.073834405521698e-5,NA,enriched
+GO_ORA,GO:0009790,embryo development,1.1077191415094591e-5,NA,enriched
+GO_ORA,GO:0048858,cell projection morphogenesis,1.1201778282197234e-5,NA,enriched
+GO_ORA,GO:0008217,regulation of blood pressure,1.1863065042337411e-5,NA,enriched
+GO_ORA,GO:0007507,heart development,1.2290180217507563e-5,NA,enriched
+GO_ORA,GO:0120039,plasma membrane bounded cell projection morphogenesis,1.2325485817563028e-5,NA,enriched
+GO_ORA,GO:0022407,regulation of cell-cell adhesion,1.2325485817563028e-5,NA,enriched
+GO_ORA,GO:0045766,positive regulation of angiogenesis,1.2977827176784541e-5,NA,enriched
+GO_ORA,GO:0007423,sensory organ development,1.3101583116316277e-5,NA,enriched
+GO_ORA,GO:1904018,positive regulation of vasculature development,1.538986081054795e-5,NA,enriched
+GO_ORA,GO:0010594,regulation of endothelial cell migration,1.7319829072422847e-5,NA,enriched
+GO_ORA,GO:0050680,negative regulation of epithelial cell proliferation,2.2067303525185648e-5,NA,enriched
+GO_ORA,GO:0022408,negative regulation of cell-cell adhesion,2.2067303525185648e-5,NA,enriched
+GO_ORA,GO:0015850,organic hydroxy compound transport,3.0299510871017225e-5,NA,enriched
+GO_ORA,GO:0034762,regulation of transmembrane transport,3.0339945221082647e-5,NA,enriched
+GO_ORA,GO:0048812,neuron projection morphogenesis,3.0339945221082647e-5,NA,enriched
+GO_ORA,GO:0002521,leukocyte differentiation,3.425166989485525e-5,NA,enriched
+GO_ORA,GO:0003015,heart process,3.528799184588782e-5,NA,enriched
+GO_ORA,GO:0008284,positive regulation of cell population proliferation,3.7334189775418015e-5,NA,enriched
+GO_ORA,GO:0050920,regulation of chemotaxis,4.063586212524547e-5,NA,enriched
+GO_ORA,GO:0048598,embryonic morphogenesis,4.232746205523023e-5,NA,enriched
+GO_ORA,GO:0032956,regulation of actin cytoskeleton organization,4.344033016713264e-5,NA,enriched
+GO_ORA,GO:0002040,sprouting angiogenesis,4.344033016713264e-5,NA,enriched
+GO_ORA,GO:0007044,cell-substrate junction assembly,4.5684620395854154e-5,NA,enriched
+GO_ORA,GO:0010595,positive regulation of endothelial cell migration,4.5684620395854154e-5,NA,enriched
+GO_ORA,GO:0048771,tissue remodeling,4.5684620395854154e-5,NA,enriched
+GO_ORA,GO:0150115,cell-substrate junction organization,4.964586353923213e-5,NA,enriched
+GO_ORA,GO:0002688,regulation of leukocyte chemotaxis,4.964586353923213e-5,NA,enriched
+GO_ORA,GO:0002009,morphogenesis of an epithelium,5.429499468610099e-5,NA,enriched
+GO_ORA,GO:0048880,sensory system development,5.770529756155243e-5,NA,enriched
+GO_ORA,GO:0001654,eye development,6.951641970522454e-5,NA,enriched
+GO_ORA,GO:0050900,leukocyte migration,7.39561742225887e-5,NA,enriched
+GO_ORA,GO:1903131,mononuclear cell differentiation,7.74207404539999e-5,NA,enriched
+GO_ORA,GO:0150063,visual system development,9.055422480449144e-5,NA,enriched
+GO_ORA,GO:0006816,calcium ion transport,9.374379824671714e-5,NA,enriched
+GO_ORA,GO:0007265,Ras protein signal transduction,9.978805702718918e-5,NA,enriched
+GO_ORA,GO:0001936,regulation of endothelial cell proliferation,1.0139203536056449e-4,NA,enriched
+GO_ORA,GO:0008544,epidermis development,1.0528686195301251e-4,NA,enriched
+GO_ORA,GO:0030595,leukocyte chemotaxis,1.0528686195301251e-4,NA,enriched
+GO_ORA,GO:0062197,cellular response to chemical stress,1.0528686195301251e-4,NA,enriched
+GO_ORA,GO:0045926,negative regulation of growth,1.0528686195301251e-4,NA,enriched
+GO_ORA,GO:0007264,small GTPase-mediated signal transduction,1.1016364707807296e-4,NA,enriched
+GO_ORA,GO:0048762,mesenchymal cell differentiation,1.1016364707807296e-4,NA,enriched
+GO_ORA,GO:0072001,renal system development,1.1016364707807296e-4,NA,enriched
+GO_ORA,GO:0001822,kidney development,1.205697586996196e-4,NA,enriched
+GO_ORA,GO:0006939,smooth muscle contraction,1.205697586996196e-4,NA,enriched
+GO_ORA,GO:0008016,regulation of heart contraction,1.205697586996196e-4,NA,enriched
+GO_ORA,GO:0001503,ossification,1.352611354270462e-4,NA,enriched
+GO_ORA,GO:0003007,heart morphogenesis,1.448063732923429e-4,NA,enriched
+GO_ORA,GO:0030048,actin filament-based movement,1.63445472611846e-4,NA,enriched
+GO_ORA,GO:0050921,positive regulation of chemotaxis,1.6399000364566456e-4,NA,enriched
+GO_ORA,GO:0050865,regulation of cell activation,1.6753784348549515e-4,NA,enriched
+GO_ORA,GO:0001837,epithelial to mesenchymal transition,1.8518915658126493e-4,NA,enriched
+GO_ORA,GO:0019725,cellular homeostasis,1.86951607362501e-4,NA,enriched
+GO_ORA,GO:0060284,regulation of cell development,1.86951607362501e-4,NA,enriched
+GO_ORA,GO:0050878,regulation of body fluid levels,1.86951607362501e-4,NA,enriched
+GO_ORA,GO:0006954,inflammatory response,1.8777223139967614e-4,NA,enriched
+GO_ORA,GO:0034329,cell junction assembly,1.9928779683160578e-4,NA,enriched
+GO_ORA,GO:0061564,axon development,2.0924697431670849e-4,NA,enriched
+GO_ORA,GO:0031214,biomineral tissue development,2.271133290331174e-4,NA,enriched
+GO_ORA,GO:0001935,endothelial cell proliferation,2.488434912917244e-4,NA,enriched
+GO_ORA,GO:0045785,positive regulation of cell adhesion,2.488434912917244e-4,NA,enriched
+GO_ORA,GO:0001816,cytokine production,2.488434912917244e-4,NA,enriched
+GO_ORA,GO:0048667,cell morphogenesis involved in neuron differentiation,2.578600029654293e-4,NA,enriched
+GO_ORA,GO:0014823,response to activity,2.578600029654293e-4,NA,enriched
+GO_ORA,GO:0060048,cardiac muscle contraction,2.606396542944523e-4,NA,enriched
+GO_ORA,GO:0051017,actin filament bundle assembly,2.904223554795399e-4,NA,enriched
+GO_ORA,GO:0061572,actin filament bundle organization,2.904223554795399e-4,NA,enriched
+GO_ORA,GO:0071674,mononuclear cell migration,2.922917963590588e-4,NA,enriched
+GO_ORA,GO:0035150,regulation of tube size,2.922917963590588e-4,NA,enriched
+GO_ORA,GO:0035296,regulation of tube diameter,2.922917963590588e-4,NA,enriched
+GO_ORA,GO:0097746,blood vessel diameter maintenance,2.922917963590588e-4,NA,enriched
+GO_ORA,GO:0048041,focal adhesion assembly,3.018994088428795e-4,NA,enriched
+GO_ORA,GO:0071453,cellular response to oxygen levels,3.448320063273108e-4,NA,enriched
+GO_ORA,GO:0071396,cellular response to lipid,3.448320063273108e-4,NA,enriched
+GO_ORA,GO:0070252,actin-mediated cell contraction,3.45415712743034e-4,NA,enriched
+GO_ORA,GO:0090287,regulation of cellular response to growth factor stimulus,3.4804199972095055e-4,NA,enriched
+GO_ORA,GO:0002685,regulation of leukocyte migration,4.0851721626146577e-4,NA,enriched
+GO_ORA,GO:0007178,cell surface receptor protein serine/threonine kinase signaling pathway,4.095753525124796e-4,NA,enriched
+GO_ORA,GO:0002042,cell migration involved in sprouting angiogenesis,4.095753525124796e-4,NA,enriched
+GO_ORA,GO:0006937,regulation of muscle contraction,4.1512699395548696e-4,NA,enriched
+GO_ORA,GO:0001501,skeletal system development,4.239518758859611e-4,NA,enriched
+GO_ORA,GO:0070527,platelet aggregation,4.7593629076937233e-4,NA,enriched
+GO_ORA,GO:0001952,regulation of cell-matrix adhesion,4.780582373551889e-4,NA,enriched
+GO_ORA,GO:0032963,collagen metabolic process,4.800025625825671e-4,NA,enriched
+GO_ORA,GO:0048568,embryonic organ development,4.996882623344325e-4,NA,enriched
+GO_ORA,GO:0045321,leukocyte activation,4.996882623344325e-4,NA,enriched
+GO_ORA,GO:0001817,regulation of cytokine production,4.996882623344325e-4,NA,enriched
+GO_ORA,GO:0030856,regulation of epithelial cell differentiation,5.017144967852089e-4,NA,enriched
+GO_ORA,GO:0002690,positive regulation of leukocyte chemotaxis,5.197215197766966e-4,NA,enriched
+GO_ORA,GO:0010810,regulation of cell-substrate adhesion,5.24338681525261e-4,NA,enriched
+GO_ORA,GO:0038084,vascular endothelial growth factor signaling pathway,5.24338681525261e-4,NA,enriched
+GO_ORA,GO:0008154,actin polymerization or depolymerization,5.487139989849841e-4,NA,enriched
+GO_ORA,GO:0043534,blood vessel endothelial cell migration,5.487139989849841e-4,NA,enriched
+GO_ORA,GO:0007186,G protein-coupled receptor signaling pathway,5.577866834264046e-4,NA,enriched
+GO_ORA,GO:0006936,muscle contraction,5.806725449551556e-4,NA,enriched
+GO_ORA,GO:0006874,intracellular calcium ion homeostasis,5.901230053240777e-4,NA,enriched
+GO_ORA,GO:0030098,lymphocyte differentiation,6.379624763075975e-4,NA,enriched
+GO_ORA,GO:0009636,response to toxic substance,6.533341278672484e-4,NA,enriched
+GO_ORA,GO:0007409,axonogenesis,6.799025442176989e-4,NA,enriched
+GO_ORA,GO:0042310,vasoconstriction,6.966299574139355e-4,NA,enriched
+GO_ORA,GO:0043010,camera-type eye development,6.975116544071664e-4,NA,enriched
+GO_ORA,GO:0007599,hemostasis,7.433608041989409e-4,NA,enriched
+GO_ORA,GO:0055074,calcium ion homeostasis,7.556770013785846e-4,NA,enriched
+GO_ORA,GO:0001937,negative regulation of endothelial cell proliferation,7.557859998075319e-4,NA,enriched
+GO_ORA,GO:0034109,homotypic cell-cell adhesion,7.557859998075319e-4,NA,enriched
+GO_ORA,GO:0070588,calcium ion transmembrane transport,7.585315591761778e-4,NA,enriched
+GO_ORA,GO:0001819,positive regulation of cytokine production,7.585315591761778e-4,NA,enriched
+GO_ORA,GO:0030183,B cell differentiation,8.143950127281504e-4,NA,enriched
+GO_ORA,GO:0035904,aorta development,8.32189567614452e-4,NA,enriched
+GO_ORA,GO:0071711,basement membrane organization,8.32189567614452e-4,NA,enriched
+GO_ORA,GO:0036294,cellular response to decreased oxygen levels,8.864067357791637e-4,NA,enriched
+GO_ORA,GO:0001890,placenta development,8.864067357791637e-4,NA,enriched
+GO_ORA,GO:0030168,platelet activation,9.311284402819996e-4,NA,enriched
+GO_ORA,GO:0030278,regulation of ossification,9.541822791594084e-4,NA,enriched
+GO_ORA,GO:0090066,regulation of anatomical structure size,9.541822791594084e-4,NA,enriched
+GO_ORA,GO:0007596,blood coagulation,0.0010063468387300882,NA,enriched
+GO_ORA,GO:0050817,coagulation,0.0010063468387300882,NA,enriched
+GO_ORA,GO:0050808,synapse organization,0.00108779557292591,NA,enriched
+GO_ORA,GO:0050877,nervous system process,0.0011232100192645875,NA,enriched
+GO_ORA,GO:0071456,cellular response to hypoxia,0.001135287603275426,NA,enriched
+GO_ORA,GO:0090596,sensory organ morphogenesis,0.001145528096990555,NA,enriched
+GO_ORA,GO:0098771,inorganic ion homeostasis,0.00114934953945424,NA,enriched
+GO_ORA,GO:0006869,lipid transport,0.001179465367255755,NA,enriched
+GO_ORA,GO:0061061,muscle structure development,0.0012382463052825175,NA,enriched
+GO_ORA,GO:0010876,lipid localization,0.0012382463052825175,NA,enriched
+GO_ORA,GO:0003158,endothelium development,0.0012382463052825175,NA,enriched
+GO_ORA,GO:0003208,cardiac ventricle morphogenesis,0.0012382463052825175,NA,enriched
+GO_ORA,GO:0043114,regulation of vascular permeability,0.0012382463052825175,NA,enriched
+GO_ORA,GO:0110053,regulation of actin filament organization,0.001251503673414719,NA,enriched
+GO_ORA,GO:0010717,regulation of epithelial to mesenchymal transition,0.0012757391736792094,NA,enriched
+GO_ORA,GO:0150116,regulation of cell-substrate junction organization,0.0013170443664194988,NA,enriched
+GO_ORA,GO:0098773,skin epidermis development,0.0014634936851764353,NA,enriched
+GO_ORA,GO:0007613,memory,0.0015150397986456708,NA,enriched
+GO_ORA,GO:0098655,monoatomic cation transmembrane transport,0.0015384551104502518,NA,enriched
+GO_ORA,GO:0000302,response to reactive oxygen species,0.001566643983234119,NA,enriched
+GO_ORA,GO:0045446,endothelial cell differentiation,0.0015711415677761046,NA,enriched
+GO_ORA,GO:0141091,transforming growth factor beta receptor superfamily signaling pathway,0.0016350636749390645,NA,enriched
+GO_ORA,GO:0048246,macrophage chemotaxis,0.0016350636749390645,NA,enriched
+GO_ORA,GO:0098754,detoxification,0.001647720022404331,NA,enriched
+GO_ORA,GO:0072006,nephron development,0.0016587149045887923,NA,enriched
+GO_ORA,GO:0055082,intracellular chemical homeostasis,0.0017576200966209403,NA,enriched
+GO_ORA,GO:0055001,muscle cell development,0.0017576200966209403,NA,enriched
+GO_ORA,GO:0006897,endocytosis,0.0018533092704867019,NA,enriched
+GO_ORA,GO:0019229,regulation of vasoconstriction,0.0019021115005086427,NA,enriched
+GO_ORA,GO:0046486,glycerolipid metabolic process,0.0019132110476953687,NA,enriched
+GO_ORA,GO:0046649,lymphocyte activation,0.0020017274708077916,NA,enriched
+GO_ORA,GO:0006650,glycerophospholipid metabolic process,0.0020808088708765132,NA,enriched
+GO_ORA,GO:0071774,response to fibroblast growth factor,0.0022201116688290168,NA,enriched
+GO_ORA,GO:0006898,receptor-mediated endocytosis,0.0023597927969294767,NA,enriched
+GO_ORA,GO:0051924,regulation of calcium ion transport,0.00237428880748461,NA,enriched
+GO_ORA,GO:0014706,striated muscle tissue development,0.0025450635465094893,NA,enriched
+GO_ORA,GO:0086003,cardiac muscle cell contraction,0.0026196604675125306,NA,enriched
+GO_ORA,GO:0051893,regulation of focal adhesion assembly,0.0026395432152276645,NA,enriched
+GO_ORA,GO:0090109,regulation of cell-substrate junction assembly,0.0026395432152276645,NA,enriched
+GO_ORA,GO:0006814,sodium ion transport,0.0026395432152276645,NA,enriched
+GO_ORA,GO:0002694,regulation of leukocyte activation,0.0026395432152276645,NA,enriched
+GO_ORA,GO:0035051,cardiocyte differentiation,0.0026395432152276645,NA,enriched
+GO_ORA,GO:0031032,actomyosin structure organization,0.0026427479020853903,NA,enriched
+GO_ORA,GO:0007009,plasma membrane organization,0.002775949150552364,NA,enriched
+GO_ORA,GO:0051493,regulation of cytoskeleton organization,0.0028721976259208767,NA,enriched
+GO_ORA,GO:0060537,muscle tissue development,0.0029653665191298017,NA,enriched
+GO_ORA,GO:1903053,regulation of extracellular matrix organization,0.003059842721031193,NA,enriched
+GO_ORA,GO:1904035,regulation of epithelial cell apoptotic process,0.003065224244056434,NA,enriched
+GO_ORA,GO:0040007,growth,0.003074367726747728,NA,enriched
+GO_ORA,GO:0086001,cardiac muscle cell action potential,0.0030815493777387724,NA,enriched
+GO_ORA,GO:0031344,regulation of cell projection organization,0.003099182381013626,NA,enriched
+GO_ORA,GO:0051174,regulation of phosphorus metabolic process,0.0031666479109618527,NA,enriched
+GO_ORA,GO:0006468,protein phosphorylation,0.0031752599935284407,NA,enriched
+GO_ORA,GO:0010975,regulation of neuron projection development,0.0032226928241375742,NA,enriched
+GO_ORA,GO:0043491,phosphatidylinositol 3-kinase/protein kinase B signal transduction,0.0032475263888217102,NA,enriched
+GO_ORA,GO:0050922,negative regulation of chemotaxis,0.003301455983253941,NA,enriched
+GO_ORA,GO:0051580,regulation of neurotransmitter uptake,0.003301455983253941,NA,enriched
+GO_ORA,GO:1901888,regulation of cell junction assembly,0.003301455983253941,NA,enriched
+GO_ORA,GO:0007610,behavior,0.0033021157461355535,NA,enriched
+GO_ORA,GO:0099003,vesicle-mediated transport in synapse,0.0033328769933159454,NA,enriched
+GO_ORA,GO:0033002,muscle cell proliferation,0.003372143081460096,NA,enriched
+GO_ORA,GO:0071675,regulation of mononuclear cell migration,0.003372143081460096,NA,enriched
+GO_ORA,GO:0034764,positive regulation of transmembrane transport,0.0034279569911368148,NA,enriched
+GO_ORA,GO:0044703,multi-organism reproductive process,0.0034279569911368148,NA,enriched
+GO_ORA,GO:0044706,multi-multicellular organism process,0.0034279569911368148,NA,enriched
+GO_ORA,GO:0043500,muscle adaptation,0.0034292174773762514,NA,enriched
+GO_ORA,GO:0031667,response to nutrient levels,0.003441430716484104,NA,enriched
+GO_ORA,GO:0001704,formation of primary germ layer,0.0034827908300024296,NA,enriched
+GO_ORA,GO:0070167,regulation of biomineral tissue development,0.0034827908300024296,NA,enriched
+GO_ORA,GO:0002028,regulation of sodium ion transport,0.0034827908300024296,NA,enriched
+GO_ORA,GO:0030308,negative regulation of cell growth,0.003577209080216032,NA,enriched
+GO_ORA,GO:0010759,positive regulation of macrophage chemotaxis,0.0036520387902843113,NA,enriched
+GO_ORA,GO:0036315,cellular response to sterol,0.0036520387902843113,NA,enriched
+GO_ORA,GO:0034103,regulation of tissue remodeling,0.003804319983970281,NA,enriched
+GO_ORA,GO:0043279,response to alkaloid,0.003804319983970281,NA,enriched
+GO_ORA,GO:0002043,blood vessel endothelial cell proliferation involved in sprouting angiogenesis,0.003804319983970281,NA,enriched
+GO_ORA,GO:0035909,aorta morphogenesis,0.003804319983970281,NA,enriched
+GO_ORA,GO:0086012,membrane depolarization during cardiac muscle cell action potential,0.003804319983970281,NA,enriched
+GO_ORA,GO:0071825,protein-lipid complex organization,0.0038936913570023273,NA,enriched
+GO_ORA,GO:0043523,regulation of neuron apoptotic process,0.003968338732106135,NA,enriched
+GO_ORA,GO:0044344,cellular response to fibroblast growth factor stimulus,0.00403369130876041,NA,enriched
+GO_ORA,GO:0061138,morphogenesis of a branching epithelium,0.00403369130876041,NA,enriched
+GO_ORA,GO:0061337,cardiac conduction,0.00403369130876041,NA,enriched
+GO_ORA,GO:0044282,small molecule catabolic process,0.004065321667617107,NA,enriched
+GO_ORA,GO:0034599,cellular response to oxidative stress,0.004070266739042606,NA,enriched
+GO_ORA,GO:0006644,phospholipid metabolic process,0.00408547672229943,NA,enriched
+GO_ORA,GO:0034765,regulation of monoatomic ion transmembrane transport,0.004273417437729342,NA,enriched
+GO_ORA,GO:0150117,positive regulation of cell-substrate junction organization,0.004389826610630778,NA,enriched
+GO_ORA,GO:1902745,positive regulation of lamellipodium organization,0.004389826610630778,NA,enriched
+GO_ORA,GO:0001954,positive regulation of cell-matrix adhesion,0.004389826610630778,NA,enriched
+GO_ORA,GO:0120035,regulation of plasma membrane bounded cell projection organization,0.004567846721862318,NA,enriched
+GO_ORA,GO:0097237,cellular response to toxic substance,0.004570638019846147,NA,enriched
+GO_ORA,GO:0042110,T cell activation,0.004570638019846147,NA,enriched
+GO_ORA,GO:0007492,endoderm development,0.004570638019846147,NA,enriched
+GO_ORA,GO:0070542,response to fatty acid,0.004570638019846147,NA,enriched
+GO_ORA,GO:0055088,lipid homeostasis,0.004570638019846147,NA,enriched
+GO_ORA,GO:0071277,cellular response to calcium ion,0.004570638019846147,NA,enriched
+GO_ORA,GO:0051209,release of sequestered calcium ion into cytosol,0.004570638019846147,NA,enriched
+GO_ORA,GO:0050801,monoatomic ion homeostasis,0.004576887483207519,NA,enriched
+GO_ORA,GO:0003206,cardiac chamber morphogenesis,0.004656295592136634,NA,enriched
+GO_ORA,GO:0051056,regulation of small GTPase mediated signal transduction,0.004660396399939167,NA,enriched
+GO_ORA,GO:0019722,calcium-mediated signaling,0.004800023455831244,NA,enriched
+GO_ORA,GO:0045444,fat cell differentiation,0.004844985403907153,NA,enriched
+GO_ORA,GO:0030279,negative regulation of ossification,0.004853095417472295,NA,enriched
+GO_ORA,GO:0003014,renal system process,0.004962840893885254,NA,enriched
+GO_ORA,GO:0055080,monoatomic cation homeostasis,0.005158752930729872,NA,enriched
+GO_ORA,GO:0048592,eye morphogenesis,0.005211693964943275,NA,enriched
+GO_ORA,GO:0090049,regulation of cell migration involved in sprouting angiogenesis,0.005229593758841764,NA,enriched
+GO_ORA,GO:1904019,epithelial cell apoptotic process,0.005229593758841764,NA,enriched
+GO_ORA,GO:0008286,insulin receptor signaling pathway,0.005251656532981996,NA,enriched
+GO_ORA,GO:0097529,myeloid leukocyte migration,0.005251656532981996,NA,enriched
+GO_ORA,GO:0007565,female pregnancy,0.005251656532981996,NA,enriched
+GO_ORA,GO:0032869,cellular response to insulin stimulus,0.005327179346669334,NA,enriched
+GO_ORA,GO:0030041,actin filament polymerization,0.005475607096285405,NA,enriched
+GO_ORA,GO:0032760,positive regulation of tumor necrosis factor production,0.005475607096285405,NA,enriched
+GO_ORA,GO:0072073,kidney epithelium development,0.005475607096285405,NA,enriched
+GO_ORA,GO:0002687,positive regulation of leukocyte migration,0.005708259412649894,NA,enriched
+GO_ORA,GO:0003151,outflow tract morphogenesis,0.0058044154930704224,NA,enriched
+GO_ORA,GO:0086002,cardiac muscle cell action potential involved in contraction,0.0058044154930704224,NA,enriched
+GO_ORA,GO:0006979,response to oxidative stress,0.0058044154930704224,NA,enriched
+GO_ORA,GO:0044089,positive regulation of cellular component biogenesis,0.0058044154930704224,NA,enriched
+GO_ORA,GO:1903829,positive regulation of protein localization,0.0058044154930704224,NA,enriched
+GO_ORA,GO:0030100,regulation of endocytosis,0.005894317895472091,NA,enriched
+GO_ORA,GO:0050994,regulation of lipid catabolic process,0.005894317895472091,NA,enriched
+GO_ORA,GO:0030162,regulation of proteolysis,0.005894317895472091,NA,enriched
+GO_ORA,GO:0001504,neurotransmitter uptake,0.005894317895472091,NA,enriched
+GO_ORA,GO:0010592,positive regulation of lamellipodium assembly,0.005894317895472091,NA,enriched
+GO_ORA,GO:0035633,maintenance of blood-brain barrier,0.005894317895472091,NA,enriched
+GO_ORA,GO:0043277,apoptotic cell clearance,0.005894317895472091,NA,enriched
+GO_ORA,GO:0043535,regulation of blood vessel endothelial cell migration,0.005925417650396244,NA,enriched
+GO_ORA,GO:0051897,positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,0.005930202291047451,NA,enriched
+GO_ORA,GO:1902905,positive regulation of supramolecular fiber organization,0.005930202291047451,NA,enriched
+GO_ORA,GO:0001508,action potential,0.005949610624003738,NA,enriched
+GO_ORA,GO:0044093,positive regulation of molecular function,0.006027806818867624,NA,enriched
+GO_ORA,GO:0002027,regulation of heart rate,0.0060820853005972356,NA,enriched
+GO_ORA,GO:1902903,regulation of supramolecular fiber organization,0.006110630495146225,NA,enriched
+GO_ORA,GO:0030216,keratinocyte differentiation,0.006166188479062217,NA,enriched
+GO_ORA,GO:0006942,regulation of striated muscle contraction,0.006166188479062217,NA,enriched
+GO_ORA,GO:0099504,synaptic vesicle cycle,0.006306335677560447,NA,enriched
+GO_ORA,GO:0032964,collagen biosynthetic process,0.006601223480975561,NA,enriched
+GO_ORA,GO:0042698,ovulation cycle,0.006601223480975561,NA,enriched
+GO_ORA,GO:0051051,negative regulation of transport,0.006617015201506287,NA,enriched
+GO_ORA,GO:0002237,response to molecule of bacterial origin,0.006617015201506287,NA,enriched
+GO_ORA,GO:0006873,intracellular monoatomic ion homeostasis,0.006803331358221281,NA,enriched
+GO_ORA,GO:0060627,regulation of vesicle-mediated transport,0.0068728209399265714,NA,enriched
+GO_ORA,GO:0043116,negative regulation of vascular permeability,0.006945395180482099,NA,enriched
+GO_ORA,GO:0060322,head development,0.006960088775474554,NA,enriched
+GO_ORA,GO:0032835,glomerulus development,0.007044920010525477,NA,enriched
+GO_ORA,GO:0030099,myeloid cell differentiation,0.007145643278246381,NA,enriched
+GO_ORA,GO:0007584,response to nutrient,0.007183641931963512,NA,enriched
+GO_ORA,GO:0050727,regulation of inflammatory response,0.007183641931963512,NA,enriched
+GO_ORA,GO:0070371,ERK1 and ERK2 cascade,0.0072603200032288154,NA,enriched
+GO_ORA,GO:0071772,response to BMP,0.00738380099788827,NA,enriched
+GO_ORA,GO:0071773,cellular response to BMP stimulus,0.00738380099788827,NA,enriched
+GO_ORA,GO:0061448,connective tissue development,0.00738380099788827,NA,enriched
+GO_ORA,GO:0098810,neurotransmitter reuptake,0.007461366898523676,NA,enriched
+GO_ORA,GO:1904036,negative regulation of epithelial cell apoptotic process,0.007461366898523676,NA,enriched
+GO_ORA,GO:1903038,negative regulation of leukocyte cell-cell adhesion,0.007461366898523676,NA,enriched
+GO_ORA,GO:0034104,negative regulation of tissue remodeling,0.007526377731748116,NA,enriched
+GO_ORA,GO:0002686,negative regulation of leukocyte migration,0.007526377731748116,NA,enriched
+GO_ORA,GO:0086065,cell communication involved in cardiac conduction,0.007526377731748116,NA,enriched
+GO_ORA,GO:0051260,protein homooligomerization,0.007526377731748116,NA,enriched
+GO_ORA,GO:0010562,positive regulation of phosphorus metabolic process,0.007597443715983594,NA,enriched
+GO_ORA,GO:0019216,regulation of lipid metabolic process,0.007597443715983594,NA,enriched
+GO_ORA,GO:0045937,positive regulation of phosphate metabolic process,0.007597443715983594,NA,enriched
+GO_ORA,GO:0050767,regulation of neurogenesis,0.007806352538471721,NA,enriched
+GO_ORA,GO:0034614,cellular response to reactive oxygen species,0.007835021065417164,NA,enriched
+GO_ORA,GO:0050679,positive regulation of epithelial cell proliferation,0.007835021065417164,NA,enriched
+GO_ORA,GO:0007229,integrin-mediated signaling pathway,0.008025398289850902,NA,enriched
+GO_ORA,GO:1902743,regulation of lamellipodium organization,0.008061781849549747,NA,enriched
+GO_ORA,GO:0022409,positive regulation of cell-cell adhesion,0.008107507198837441,NA,enriched
+GO_ORA,GO:0071214,cellular response to abiotic stimulus,0.008107507198837441,NA,enriched
+GO_ORA,GO:0104004,cellular response to environmental stimulus,0.008107507198837441,NA,enriched
+GO_ORA,GO:0010038,response to metal ion,0.008198892081292024,NA,enriched
+GO_ORA,GO:0046849,bone remodeling,0.008265183949777382,NA,enriched
+GO_ORA,GO:0051928,positive regulation of calcium ion transport,0.008265183949777382,NA,enriched
+GO_ORA,GO:1904062,regulation of monoatomic cation transmembrane transport,0.008300938775920022,NA,enriched
+GO_ORA,GO:0051402,neuron apoptotic process,0.008506385945809592,NA,enriched
+GO_ORA,GO:0048738,cardiac muscle tissue development,0.008506385945809592,NA,enriched
+GO_ORA,GO:0010977,negative regulation of neuron projection development,0.008506385945809592,NA,enriched
+GO_ORA,GO:0021953,central nervous system neuron differentiation,0.008506385945809592,NA,enriched
+GO_ORA,GO:1903557,positive regulation of tumor necrosis factor superfamily cytokine production,0.008506385945809592,NA,enriched
+GO_ORA,GO:0002252,immune effector process,0.008506385945809592,NA,enriched
+GO_ORA,GO:0001706,endoderm formation,0.008506385945809592,NA,enriched
+GO_ORA,GO:0010543,regulation of platelet activation,0.008506385945809592,NA,enriched
+GO_ORA,GO:0015849,organic acid transport,0.008850995661659188,NA,enriched
+GO_ORA,GO:0046942,carboxylic acid transport,0.008850995661659188,NA,enriched
+GO_ORA,GO:0050867,positive regulation of cell activation,0.009132773584755819,NA,enriched
+GO_ORA,GO:0098869,cellular oxidant detoxification,0.009179956250521449,NA,enriched
+GO_ORA,GO:0001659,temperature homeostasis,0.009179956250521449,NA,enriched
+GO_ORA,GO:0010721,negative regulation of cell development,0.009179956250521449,NA,enriched
+GO_ORA,GO:0097305,response to alcohol,0.009179956250521449,NA,enriched
+GO_ORA,GO:0003073,regulation of systemic arterial blood pressure,0.009234179894166496,NA,enriched
+GO_ORA,GO:0030003,intracellular monoatomic cation homeostasis,0.009318772819217556,NA,enriched
+GO_ORA,GO:0035725,sodium ion transmembrane transport,0.009330889137224116,NA,enriched
+GO_ORA,GO:0050866,negative regulation of cell activation,0.009330889137224116,NA,enriched
+GO_ORA,GO:0099173,postsynapse organization,0.009402003418676806,NA,enriched
+GO_ORA,GO:0042220,response to cocaine,0.009402003418676806,NA,enriched
+GO_ORA,GO:0060840,artery development,0.009510228596530687,NA,enriched
+GO_ORA,GO:0032868,response to insulin,0.009510228596530687,NA,enriched
+GO_ORA,GO:0007517,muscle organ development,0.009510228596530687,NA,enriched
+GO_ORA,GO:0061326,renal tubule development,0.009510228596530687,NA,enriched
+GO_ORA,GO:1901890,positive regulation of cell junction assembly,0.010301807334371329,NA,enriched
+GO_ORA,GO:0006813,potassium ion transport,0.010404214931629348,NA,enriched
+GO_ORA,GO:0009617,response to bacterium,0.010612992891057264,NA,enriched
+GO_ORA,GO:0002683,negative regulation of immune system process,0.010612992891057264,NA,enriched
+GO_ORA,GO:0048562,embryonic organ morphogenesis,0.010612992891057264,NA,enriched
+GO_ORA,GO:0048247,lymphocyte chemotaxis,0.010612992891057264,NA,enriched
+GO_ORA,GO:0051894,positive regulation of focal adhesion assembly,0.010612992891057264,NA,enriched
+GO_ORA,GO:0086005,ventricular cardiac muscle cell action potential,0.010612992891057264,NA,enriched
+GO_ORA,GO:0045833,negative regulation of lipid metabolic process,0.010683363135879496,NA,enriched
+GO_ORA,GO:0048754,branching morphogenesis of an epithelial tube,0.010683363135879496,NA,enriched
+GO_ORA,GO:0043409,negative regulation of MAPK cascade,0.010773872207806809,NA,enriched
+GO_ORA,GO:0051495,positive regulation of cytoskeleton organization,0.010773872207806809,NA,enriched
+GO_ORA,GO:0001823,mesonephros development,0.011038943261858333,NA,enriched
+GO_ORA,GO:0003231,cardiac ventricle development,0.011038943261858333,NA,enriched
+GO_ORA,GO:0050918,positive chemotaxis,0.011143095550362565,NA,enriched
+GO_ORA,GO:0050886,endocrine process,0.01114454088225418,NA,enriched
+GO_ORA,GO:0072080,nephron tubule development,0.01114454088225418,NA,enriched
+GO_ORA,GO:0090288,negative regulation of cellular response to growth factor stimulus,0.01114454088225418,NA,enriched
+GO_ORA,GO:0097581,lamellipodium organization,0.01114454088225418,NA,enriched
+GO_ORA,GO:0060562,epithelial tube morphogenesis,0.01114454088225418,NA,enriched
+GO_ORA,GO:0010719,negative regulation of epithelial to mesenchymal transition,0.01114454088225418,NA,enriched
+GO_ORA,GO:0071827,plasma lipoprotein particle organization,0.01114454088225418,NA,enriched
+GO_ORA,GO:1903115,regulation of actin filament-based movement,0.01114454088225418,NA,enriched
+GO_ORA,GO:0007420,brain development,0.01114454088225418,NA,enriched
+GO_ORA,GO:0032355,response to estradiol,0.011369285848217938,NA,enriched
+GO_ORA,GO:0001649,osteoblast differentiation,0.011505199999928583,NA,enriched
+GO_ORA,GO:0042325,regulation of phosphorylation,0.011505199999928583,NA,enriched
+GO_ORA,GO:0010758,regulation of macrophage chemotaxis,0.011623165869437728,NA,enriched
+GO_ORA,GO:0071559,response to transforming growth factor beta,0.011623165869437728,NA,enriched
+GO_ORA,GO:0051216,cartilage development,0.011667056110914596,NA,enriched
+GO_ORA,GO:0050790,regulation of catalytic activity,0.011667056110914596,NA,enriched
+GO_ORA,GO:0007200,phospholipase C-activating G protein-coupled receptor signaling pathway,0.011714567203847474,NA,enriched
+GO_ORA,GO:0043068,positive regulation of programmed cell death,0.01205636842979584,NA,enriched
+GO_ORA,GO:0016042,lipid catabolic process,0.012125983406088925,NA,enriched
+GO_ORA,GO:0001763,morphogenesis of a branching structure,0.012125983406088925,NA,enriched
+GO_ORA,GO:0003205,cardiac chamber development,0.012125983406088925,NA,enriched
+GO_ORA,GO:0097306,cellular response to alcohol,0.012125983406088925,NA,enriched
+GO_ORA,GO:0032496,response to lipopolysaccharide,0.012229357339987996,NA,enriched
+GO_ORA,GO:0043502,regulation of muscle adaptation,0.012236633557711638,NA,enriched
+GO_ORA,GO:0051960,regulation of nervous system development,0.012429941280482333,NA,enriched
+GO_ORA,GO:0042391,regulation of membrane potential,0.012476487887271326,NA,enriched
+GO_ORA,GO:0055117,regulation of cardiac muscle contraction,0.0126860710479271,NA,enriched
+GO_ORA,GO:0032411,positive regulation of transporter activity,0.012689554762343583,NA,enriched
+GO_ORA,GO:0046578,regulation of Ras protein signal transduction,0.012689554762343583,NA,enriched
+GO_ORA,GO:0097009,energy homeostasis,0.012689554762343583,NA,enriched
+GO_ORA,GO:0045598,regulation of fat cell differentiation,0.012689554762343583,NA,enriched
+GO_ORA,GO:0048589,developmental growth,0.012730695412195606,NA,enriched
+GO_ORA,GO:0050804,modulation of chemical synaptic transmission,0.012737253063023304,NA,enriched
+GO_ORA,GO:0022617,extracellular matrix disassembly,0.012737253063023304,NA,enriched
+GO_ORA,GO:0046330,positive regulation of JNK cascade,0.013116458570198669,NA,enriched
+GO_ORA,GO:1903037,regulation of leukocyte cell-cell adhesion,0.013491435268040442,NA,enriched
+GO_ORA,GO:0043065,positive regulation of apoptotic process,0.013523933264486188,NA,enriched
+GO_ORA,GO:0032414,positive regulation of ion transmembrane transporter activity,0.013827768775963282,NA,enriched
+GO_ORA,GO:0050803,regulation of synapse structure or activity,0.013827768775963282,NA,enriched
+GO_ORA,GO:1990748,cellular detoxification,0.01398459478290918,NA,enriched
+GO_ORA,GO:0006066,alcohol metabolic process,0.014011525512774368,NA,enriched
+GO_ORA,GO:0031529,ruffle organization,0.01415895213584361,NA,enriched
+GO_ORA,GO:0085029,extracellular matrix assembly,0.01415895213584361,NA,enriched
+GO_ORA,GO:1905517,macrophage migration,0.01415895213584361,NA,enriched
+GO_ORA,GO:0009913,epidermal cell differentiation,0.01415895213584361,NA,enriched
+GO_ORA,GO:0009612,response to mechanical stimulus,0.01416185798168476,NA,enriched
+GO_ORA,GO:0002696,positive regulation of leukocyte activation,0.014228911111073505,NA,enriched
+GO_ORA,GO:0051249,regulation of lymphocyte activation,0.014228911111073505,NA,enriched
+GO_ORA,GO:0006048,UDP-N-acetylglucosamine biosynthetic process,0.014378777803633475,NA,enriched
+GO_ORA,GO:0097178,ruffle assembly,0.014504804151527094,NA,enriched
+GO_ORA,GO:0032332,positive regulation of chondrocyte differentiation,0.014504804151527094,NA,enriched
+GO_ORA,GO:0072537,fibroblast activation,0.014504804151527094,NA,enriched
+GO_ORA,GO:0030038,contractile actin filament bundle assembly,0.014653877775944506,NA,enriched
+GO_ORA,GO:0043149,stress fiber assembly,0.014653877775944506,NA,enriched
+GO_ORA,GO:0040008,regulation of growth,0.014669087433573836,NA,enriched
+GO_ORA,GO:0072577,endothelial cell apoptotic process,0.014669087433573836,NA,enriched
+GO_ORA,GO:0002689,negative regulation of leukocyte chemotaxis,0.014669087433573836,NA,enriched
+GO_ORA,GO:0006047,UDP-N-acetylglucosamine metabolic process,0.014669087433573836,NA,enriched
+GO_ORA,GO:0008045,motor neuron axon guidance,0.014669087433573836,NA,enriched
+GO_ORA,GO:0031076,embryonic camera-type eye development,0.014669087433573836,NA,enriched
+GO_ORA,GO:0046851,negative regulation of bone remodeling,0.014669087433573836,NA,enriched
+GO_ORA,GO:0014013,regulation of gliogenesis,0.014712170396035767,NA,enriched
+GO_ORA,GO:0007611,learning or memory,0.014837728312733847,NA,enriched
+GO_ORA,GO:0045165,cell fate commitment,0.014837728312733847,NA,enriched
+GO_ORA,GO:0007369,gastrulation,0.014837728312733847,NA,enriched
+GO_ORA,GO:0045664,regulation of neuron differentiation,0.01499026755431057,NA,enriched
+GO_ORA,GO:0002460,adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains,0.015037030838790624,NA,enriched
+GO_ORA,GO:0042327,positive regulation of phosphorylation,0.015037030838790624,NA,enriched
+GO_ORA,GO:0051896,regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,0.015037030838790624,NA,enriched
+GO_ORA,GO:0050807,regulation of synapse organization,0.015037030838790624,NA,enriched
+GO_ORA,GO:0099177,regulation of trans-synaptic signaling,0.0154431843986633,NA,enriched
+GO_ORA,GO:0001667,ameboidal-type cell migration,0.016083882973919404,NA,enriched
+GO_ORA,GO:0030509,BMP signaling pathway,0.01611885250276168,NA,enriched
+GO_ORA,GO:0046850,regulation of bone remodeling,0.01611885250276168,NA,enriched
+GO_ORA,GO:2000243,positive regulation of reproductive process,0.01611885250276168,NA,enriched
+GO_ORA,GO:0097530,granulocyte migration,0.016181249940439475,NA,enriched
+GO_ORA,GO:0071560,cellular response to transforming growth factor beta stimulus,0.016186322072258993,NA,enriched
+GO_ORA,GO:0001942,hair follicle development,0.016186322072258993,NA,enriched
+GO_ORA,GO:0010573,vascular endothelial growth factor production,0.016186322072258993,NA,enriched
+GO_ORA,GO:0022404,molting cycle process,0.016186322072258993,NA,enriched
+GO_ORA,GO:0022405,hair cycle process,0.016186322072258993,NA,enriched
+GO_ORA,GO:0035767,endothelial cell chemotaxis,0.016186322072258993,NA,enriched
+GO_ORA,GO:0032640,tumor necrosis factor production,0.016344644802377923,NA,enriched
+GO_ORA,GO:0032680,regulation of tumor necrosis factor production,0.016344644802377923,NA,enriched
+GO_ORA,GO:0001906,cell killing,0.01668532006012083,NA,enriched
+GO_ORA,GO:0030217,T cell differentiation,0.01680845753480858,NA,enriched
+GO_ORA,GO:0032233,positive regulation of actin filament bundle assembly,0.01680845753480858,NA,enriched
+GO_ORA,GO:0021510,spinal cord development,0.01680845753480858,NA,enriched
+GO_ORA,GO:0071622,regulation of granulocyte chemotaxis,0.01680845753480858,NA,enriched
+GO_ORA,GO:0071706,tumor necrosis factor superfamily cytokine production,0.016852314117266114,NA,enriched
+GO_ORA,GO:1903555,regulation of tumor necrosis factor superfamily cytokine production,0.016852314117266114,NA,enriched
+GO_ORA,GO:0016054,organic acid catabolic process,0.016852314117266114,NA,enriched
+GO_ORA,GO:0046395,carboxylic acid catabolic process,0.016852314117266114,NA,enriched
+GO_ORA,GO:0048640,negative regulation of developmental growth,0.016871670228920804,NA,enriched
+GO_ORA,GO:0051588,regulation of neurotransmitter transport,0.016871670228920804,NA,enriched
+GO_ORA,GO:0071621,granulocyte chemotaxis,0.016871670228920804,NA,enriched
+GO_ORA,GO:0072009,nephron epithelium development,0.016871670228920804,NA,enriched
+GO_ORA,GO:1904377,positive regulation of protein localization to cell periphery,0.016871670228920804,NA,enriched
+GO_ORA,GO:0002064,epithelial cell development,0.01739839812796369,NA,enriched
+GO_ORA,GO:2001234,negative regulation of apoptotic signaling pathway,0.01758895487294063,NA,enriched
+GO_ORA,GO:0043549,regulation of kinase activity,0.017881770319667267,NA,enriched
+GO_ORA,GO:0032231,regulation of actin filament bundle assembly,0.01819592776684876,NA,enriched
+GO_ORA,GO:1900746,regulation of vascular endothelial growth factor signaling pathway,0.01838563510932485,NA,enriched
+GO_ORA,GO:0042303,molting cycle,0.01840284015038248,NA,enriched
+GO_ORA,GO:0042633,hair cycle,0.01840284015038248,NA,enriched
+GO_ORA,GO:2000027,regulation of animal organ morphogenesis,0.01840284015038248,NA,enriched
+GO_ORA,GO:0045017,glycerolipid biosynthetic process,0.018424476277902505,NA,enriched
+GO_ORA,GO:0006836,neurotransmitter transport,0.01846422643530303,NA,enriched
+GO_ORA,GO:0050863,regulation of T cell activation,0.01846422643530303,NA,enriched
+GO_ORA,GO:0042542,response to hydrogen peroxide,0.01846422643530303,NA,enriched
+GO_ORA,GO:0043085,positive regulation of catalytic activity,0.018606123172382482,NA,enriched
+GO_ORA,GO:0062012,regulation of small molecule metabolic process,0.018659150478773433,NA,enriched
+GO_ORA,GO:0051222,positive regulation of protein transport,0.018768535092805655,NA,enriched
+GO_ORA,GO:0043536,positive regulation of blood vessel endothelial cell migration,0.018815635497085422,NA,enriched
+GO_ORA,GO:0032103,positive regulation of response to external stimulus,0.01893649729995094,NA,enriched
+GO_ORA,GO:1903706,regulation of hemopoiesis,0.01893649729995094,NA,enriched
+GO_ORA,GO:0097553,calcium ion transmembrane import into cytosol,0.01902145738145801,NA,enriched
+GO_ORA,GO:0048844,artery morphogenesis,0.019351978920052856,NA,enriched
+GO_ORA,GO:0051145,smooth muscle cell differentiation,0.019351978920052856,NA,enriched
+GO_ORA,GO:0089718,amino acid import across plasma membrane,0.019351978920052856,NA,enriched
+GO_ORA,GO:2000351,regulation of endothelial cell apoptotic process,0.019351978920052856,NA,enriched
+GO_ORA,GO:0071526,semaphorin-plexin signaling pathway,0.01936710394323735,NA,enriched
+GO_ORA,GO:0090100,positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,0.019649186205508887,NA,enriched
+GO_ORA,GO:0033674,positive regulation of kinase activity,0.019787103562355874,NA,enriched
+GO_ORA,GO:0048608,reproductive structure development,0.019787103562355874,NA,enriched
+GO_ORA,GO:0046631,alpha-beta T cell activation,0.019787103562355874,NA,enriched
+GO_ORA,GO:0071345,cellular response to cytokine stimulus,0.01985827183950999,NA,enriched
+GO_ORA,GO:0065009,regulation of molecular function,0.020206149656952714,NA,enriched
+GO_ORA,GO:0033687,osteoblast proliferation,0.020565581878192518,NA,enriched
+GO_ORA,GO:0006959,humoral immune response,0.020996390895576568,NA,enriched
+GO_ORA,GO:0070372,regulation of ERK1 and ERK2 cascade,0.021017648037150616,NA,enriched
+GO_ORA,GO:0043524,negative regulation of neuron apoptotic process,0.02106049251097526,NA,enriched
+GO_ORA,GO:0051592,response to calcium ion,0.02106049251097526,NA,enriched
+GO_ORA,GO:0042113,B cell activation,0.02108476646556226,NA,enriched
+GO_ORA,GO:0045747,positive regulation of Notch signaling pathway,0.02108476646556226,NA,enriched
+GO_ORA,GO:0032940,secretion by cell,0.02108476646556226,NA,enriched
+GO_ORA,GO:0099536,synaptic signaling,0.02108476646556226,NA,enriched
+GO_ORA,GO:0042632,cholesterol homeostasis,0.021442624051757078,NA,enriched
+GO_ORA,GO:0046634,regulation of alpha-beta T cell activation,0.021442624051757078,NA,enriched
+GO_ORA,GO:0071677,positive regulation of mononuclear cell migration,0.021442624051757078,NA,enriched
+GO_ORA,GO:0090092,regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,0.022630600908439293,NA,enriched
+GO_ORA,GO:0035987,endodermal cell differentiation,0.022819441979054216,NA,enriched
+GO_ORA,GO:0002228,natural killer cell mediated immunity,0.02290699472405864,NA,enriched
+GO_ORA,GO:1902895,positive regulation of miRNA transcription,0.02290699472405864,NA,enriched
+GO_ORA,GO:0050868,negative regulation of T cell activation,0.02290699472405864,NA,enriched
+GO_ORA,GO:0010765,positive regulation of sodium ion transport,0.02290699472405864,NA,enriched
+GO_ORA,GO:0045823,positive regulation of heart contraction,0.02290699472405864,NA,enriched
+GO_ORA,GO:0048048,embryonic eye morphogenesis,0.02290699472405864,NA,enriched
+GO_ORA,GO:1903524,positive regulation of blood circulation,0.02290699472405864,NA,enriched
+GO_ORA,GO:1905523,positive regulation of macrophage migration,0.02290699472405864,NA,enriched
+GO_ORA,GO:0042246,tissue regeneration,0.02290699472405864,NA,enriched
+GO_ORA,GO:0048009,insulin-like growth factor receptor signaling pathway,0.02290699472405864,NA,enriched
+GO_ORA,GO:0050795,regulation of behavior,0.02290699472405864,NA,enriched
+GO_ORA,GO:0072676,lymphocyte migration,0.02290699472405864,NA,enriched
+GO_ORA,GO:1990778,protein localization to cell periphery,0.022961428368765347,NA,enriched
+GO_ORA,GO:0051250,negative regulation of lymphocyte activation,0.023009967451149756,NA,enriched
+GO_ORA,GO:0042692,muscle cell differentiation,0.023251344405091186,NA,enriched
+GO_ORA,GO:0032943,mononuclear cell proliferation,0.023251344405091186,NA,enriched
+GO_ORA,GO:0009792,embryo development ending in birth or egg hatching,0.023492602302417523,NA,enriched
+GO_ORA,GO:0061458,reproductive system development,0.023508150756910116,NA,enriched
+GO_ORA,GO:0120254,olefinic compound metabolic process,0.023508150756910116,NA,enriched
+GO_ORA,GO:0001894,tissue homeostasis,0.023874337891088955,NA,enriched
+GO_ORA,GO:0060249,anatomical structure homeostasis,0.023874337891088955,NA,enriched
+GO_ORA,GO:0015918,sterol transport,0.024114006933941983,NA,enriched
+GO_ORA,GO:0002715,regulation of natural killer cell mediated immunity,0.02418396746228752,NA,enriched
+GO_ORA,GO:0035094,response to nicotine,0.02418396746228752,NA,enriched
+GO_ORA,GO:0048534,hematopoietic or lymphoid organ development,0.02418396746228752,NA,enriched
+GO_ORA,GO:0048659,smooth muscle cell proliferation,0.024263514439106154,NA,enriched
+GO_ORA,GO:0170039,proteinogenic amino acid metabolic process,0.024263514439106154,NA,enriched
+GO_ORA,GO:0048488,synaptic vesicle endocytosis,0.02470129923764277,NA,enriched
+GO_ORA,GO:0034767,positive regulation of monoatomic ion transmembrane transport,0.024891131661329665,NA,enriched
+GO_ORA,GO:0031345,negative regulation of cell projection organization,0.02499567090370398,NA,enriched
+GO_ORA,GO:0045216,cell-cell junction organization,0.02499567090370398,NA,enriched
+GO_ORA,GO:0043267,negative regulation of potassium ion transport,0.025248772323462305,NA,enriched
+GO_ORA,GO:0070168,negative regulation of biomineral tissue development,0.025248772323462305,NA,enriched
+GO_ORA,GO:0010827,regulation of D-glucose transmembrane transport,0.025375701543949178,NA,enriched
+GO_ORA,GO:0043266,regulation of potassium ion transport,0.025375701543949178,NA,enriched
+GO_ORA,GO:0046620,regulation of organ growth,0.025375701543949178,NA,enriched
+GO_ORA,GO:0048565,digestive tract development,0.025375701543949178,NA,enriched
+GO_ORA,GO:0048511,rhythmic process,0.02557292250029558,NA,enriched
+GO_ORA,GO:0010591,regulation of lamellipodium assembly,0.026073805118310204,NA,enriched
+GO_ORA,GO:0072132,mesenchyme morphogenesis,0.026073805118310204,NA,enriched
+GO_ORA,GO:0045861,negative regulation of proteolysis,0.026370096612667624,NA,enriched
+GO_ORA,GO:0006665,sphingolipid metabolic process,0.02655704535486066,NA,enriched
+GO_ORA,GO:0046651,lymphocyte proliferation,0.02655704535486066,NA,enriched
+GO_ORA,GO:0035050,embryonic heart tube development,0.02665385839739649,NA,enriched
+GO_ORA,GO:0055092,sterol homeostasis,0.026790833174893725,NA,enriched
+GO_ORA,GO:0062013,positive regulation of small molecule metabolic process,0.027328848716498662,NA,enriched
+GO_ORA,GO:0002449,lymphocyte mediated immunity,0.02743812910908078,NA,enriched
+GO_ORA,GO:0046349,amino sugar biosynthetic process,0.02743812910908078,NA,enriched
+GO_ORA,GO:0072273,metanephric nephron morphogenesis,0.02743812910908078,NA,enriched
+GO_ORA,GO:0090190,positive regulation of branching involved in ureteric bud morphogenesis,0.02743812910908078,NA,enriched
+GO_ORA,GO:2001185,"regulation of CD8-positive, alpha-beta T cell activation",0.02743812910908078,NA,enriched
+GO_ORA,GO:0007204,positive regulation of cytosolic calcium ion concentration,0.02772332739572818,NA,enriched
+GO_ORA,GO:0045637,regulation of myeloid cell differentiation,0.02772332739572818,NA,enriched
+GO_ORA,GO:0010837,regulation of keratinocyte proliferation,0.02772332739572818,NA,enriched
+GO_ORA,GO:0015844,monoamine transport,0.02772332739572818,NA,enriched
+GO_ORA,GO:2001044,regulation of integrin-mediated signaling pathway,0.02772332739572818,NA,enriched
+GO_ORA,GO:0048660,regulation of smooth muscle cell proliferation,0.02772332739572818,NA,enriched
+GO_ORA,GO:0010718,positive regulation of epithelial to mesenchymal transition,0.02815534571962739,NA,enriched
+GO_ORA,GO:0014743,regulation of muscle hypertrophy,0.02815534571962739,NA,enriched
+GO_ORA,GO:0048593,camera-type eye morphogenesis,0.02815534571962739,NA,enriched
+GO_ORA,GO:0001938,positive regulation of endothelial cell proliferation,0.028557547049757076,NA,enriched
+GO_ORA,GO:0008654,phospholipid biosynthetic process,0.02866420058886413,NA,enriched
+GO_ORA,GO:0033273,response to vitamin,0.028694693900221644,NA,enriched
+GO_ORA,GO:0001709,cell fate determination,0.028694693900221644,NA,enriched
+GO_ORA,GO:0006563,L-serine metabolic process,0.028694693900221644,NA,enriched
+GO_ORA,GO:0007588,excretion,0.028694693900221644,NA,enriched
+GO_ORA,GO:0010460,positive regulation of heart rate,0.028694693900221644,NA,enriched
+GO_ORA,GO:0071397,cellular response to cholesterol,0.028694693900221644,NA,enriched
+GO_ORA,GO:1901298,regulation of hydrogen peroxide-mediated programmed cell death,0.028694693900221644,NA,enriched
+GO_ORA,GO:1901623,regulation of lymphocyte chemotaxis,0.028694693900221644,NA,enriched
+GO_ORA,GO:1903587,regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis,0.028694693900221644,NA,enriched
+GO_ORA,GO:0036465,synaptic vesicle recycling,0.028815671935868977,NA,enriched
+GO_ORA,GO:0070374,positive regulation of ERK1 and ERK2 cascade,0.029152172748027116,NA,enriched
+GO_ORA,GO:1905039,carboxylic acid transmembrane transport,0.029152172748027116,NA,enriched
+GO_ORA,GO:0051261,protein depolymerization,0.029630958081935967,NA,enriched
+GO_ORA,GO:0032330,regulation of chondrocyte differentiation,0.030077470399178127,NA,enriched
+GO_ORA,GO:1903055,positive regulation of extracellular matrix organization,0.030077470399178127,NA,enriched
+GO_ORA,GO:0060395,SMAD protein signal transduction,0.030139071719366226,NA,enriched
+GO_ORA,GO:0051279,regulation of release of sequestered calcium ion into cytosol,0.03050088132401543,NA,enriched
+GO_ORA,GO:0061333,renal tubule morphogenesis,0.03050088132401543,NA,enriched
+GO_ORA,GO:0007254,JNK cascade,0.03050088132401543,NA,enriched
+GO_ORA,GO:0120161,regulation of cold-induced thermogenesis,0.03050088132401543,NA,enriched
+GO_ORA,GO:0030316,osteoclast differentiation,0.03050088132401543,NA,enriched
+GO_ORA,GO:0097006,regulation of plasma lipoprotein particle levels,0.03050088132401543,NA,enriched
+GO_ORA,GO:0002088,lens development in camera-type eye,0.03050088132401543,NA,enriched
+GO_ORA,GO:0045685,regulation of glial cell differentiation,0.03050088132401543,NA,enriched
+GO_ORA,GO:1901185,negative regulation of ERBB signaling pathway,0.03050088132401543,NA,enriched
+GO_ORA,GO:0002090,regulation of receptor internalization,0.03050088132401543,NA,enriched
+GO_ORA,GO:0030510,regulation of BMP signaling pathway,0.03050088132401543,NA,enriched
+GO_ORA,GO:0051899,membrane depolarization,0.03050088132401543,NA,enriched
+GO_ORA,GO:1902105,regulation of leukocyte differentiation,0.031004585488688965,NA,enriched
+GO_ORA,GO:2001233,regulation of apoptotic signaling pathway,0.031004585488688965,NA,enriched
+GO_ORA,GO:0007159,leukocyte cell-cell adhesion,0.031004585488688965,NA,enriched
+GO_ORA,GO:0010811,positive regulation of cell-substrate adhesion,0.031004585488688965,NA,enriched
+GO_ORA,GO:0002695,negative regulation of leukocyte activation,0.031004585488688965,NA,enriched
+GO_ORA,GO:0001974,blood vessel remodeling,0.031004585488688965,NA,enriched
+GO_ORA,GO:0010644,cell communication by electrical coupling,0.031004585488688965,NA,enriched
+GO_ORA,GO:0010882,regulation of cardiac muscle contraction by calcium ion signaling,0.031004585488688965,NA,enriched
+GO_ORA,GO:0036314,response to sterol,0.031004585488688965,NA,enriched
+GO_ORA,GO:0046164,alcohol catabolic process,0.031004585488688965,NA,enriched
+GO_ORA,GO:0055010,ventricular cardiac muscle tissue morphogenesis,0.031004585488688965,NA,enriched
+GO_ORA,GO:0055078,sodium ion homeostasis,0.031004585488688965,NA,enriched
+GO_ORA,GO:0046394,carboxylic acid biosynthetic process,0.031004585488688965,NA,enriched
+GO_ORA,GO:0106027,neuron projection organization,0.031094506412268325,NA,enriched
+GO_ORA,GO:0140238,presynaptic endocytosis,0.031094506412268325,NA,enriched
+GO_ORA,GO:0010611,regulation of cardiac muscle hypertrophy,0.03220254017932535,NA,enriched
+GO_ORA,GO:2000134,negative regulation of G1/S transition of mitotic cell cycle,0.03220254017932535,NA,enriched
+GO_ORA,GO:0046777,protein autophosphorylation,0.032338988128089524,NA,enriched
+GO_ORA,GO:0002573,myeloid leukocyte differentiation,0.032805344738153726,NA,enriched
+GO_ORA,GO:0046209,nitric oxide metabolic process,0.03288469222820297,NA,enriched
+GO_ORA,GO:0008643,carbohydrate transport,0.032895566983982986,NA,enriched
+GO_ORA,GO:0071248,cellular response to metal ion,0.032895566983982986,NA,enriched
+GO_ORA,GO:0007043,cell-cell junction assembly,0.03361537257320027,NA,enriched
+GO_ORA,GO:0060348,bone development,0.03361537257320027,NA,enriched
+GO_ORA,GO:0070661,leukocyte proliferation,0.03387247342429589,NA,enriched
+GO_ORA,GO:0007498,mesoderm development,0.03387247342429589,NA,enriched
+GO_ORA,GO:0038066,p38MAPK cascade,0.03387247342429589,NA,enriched
+GO_ORA,GO:0042267,natural killer cell mediated cytotoxicity,0.03387247342429589,NA,enriched
+GO_ORA,GO:0080164,regulation of nitric oxide metabolic process,0.03387247342429589,NA,enriched
+GO_ORA,GO:0023061,signal release,0.033944011541551536,NA,enriched
+GO_ORA,GO:0002250,adaptive immune response,0.033956663311266705,NA,enriched
+GO_ORA,GO:0097061,dendritic spine organization,0.033956663311266705,NA,enriched
+GO_ORA,GO:0002443,leukocyte mediated immunity,0.033956663311266705,NA,enriched
+GO_ORA,GO:0001947,heart looping,0.033956663311266705,NA,enriched
+GO_ORA,GO:0010742,macrophage derived foam cell differentiation,0.033956663311266705,NA,enriched
+GO_ORA,GO:0043616,keratinocyte proliferation,0.033956663311266705,NA,enriched
+GO_ORA,GO:0045429,positive regulation of nitric oxide biosynthetic process,0.033956663311266705,NA,enriched
+GO_ORA,GO:0045604,regulation of epidermal cell differentiation,0.033956663311266705,NA,enriched
+GO_ORA,GO:0046320,regulation of fatty acid oxidation,0.033956663311266705,NA,enriched
+GO_ORA,GO:0060986,endocrine hormone secretion,0.033956663311266705,NA,enriched
+GO_ORA,GO:0035265,organ growth,0.033956663311266705,NA,enriched
+GO_ORA,GO:0045860,positive regulation of protein kinase activity,0.034188217824290386,NA,enriched
+GO_ORA,GO:0006509,membrane protein ectodomain proteolysis,0.03467694859789621,NA,enriched
+GO_ORA,GO:0106106,cold-induced thermogenesis,0.03467694859789621,NA,enriched
+GO_ORA,GO:0030032,lamellipodium assembly,0.03467694859789621,NA,enriched
+GO_ORA,GO:0034394,protein localization to cell surface,0.03467694859789621,NA,enriched
+GO_ORA,GO:0046626,regulation of insulin receptor signaling pathway,0.03467694859789621,NA,enriched
+GO_ORA,GO:0072163,mesonephric epithelium development,0.03467694859789621,NA,enriched
+GO_ORA,GO:0072164,mesonephric tubule development,0.03467694859789621,NA,enriched
+GO_ORA,GO:2000630,positive regulation of miRNA metabolic process,0.03467694859789621,NA,enriched
+GO_ORA,GO:0010712,regulation of collagen metabolic process,0.034755725049116844,NA,enriched
+GO_ORA,GO:0046475,glycerophospholipid catabolic process,0.034755725049116844,NA,enriched
+GO_ORA,GO:0008360,regulation of cell shape,0.03482835631927814,NA,enriched
+GO_ORA,GO:0015813,L-glutamate transmembrane transport,0.03482835631927814,NA,enriched
+GO_ORA,GO:0042417,dopamine metabolic process,0.03482835631927814,NA,enriched
+GO_ORA,GO:0065005,protein-lipid complex assembly,0.03482835631927814,NA,enriched
+GO_ORA,GO:0071676,negative regulation of mononuclear cell migration,0.03482835631927814,NA,enriched
+GO_ORA,GO:0071216,cellular response to biotic stimulus,0.034948951369455056,NA,enriched
+GO_ORA,GO:0045445,myoblast differentiation,0.034948951369455056,NA,enriched
+GO_ORA,GO:0043009,chordate embryonic development,0.03569596833968016,NA,enriched
+GO_ORA,GO:0048167,regulation of synaptic plasticity,0.03576854907683831,NA,enriched
+GO_ORA,GO:0019221,cytokine-mediated signaling pathway,0.0359633494486527,NA,enriched
+GO_ORA,GO:0098739,import across plasma membrane,0.03624848142526772,NA,enriched
+GO_ORA,GO:1990845,adaptive thermogenesis,0.036395908482829885,NA,enriched
+GO_ORA,GO:0042098,T cell proliferation,0.036395908482829885,NA,enriched
+GO_ORA,GO:0001934,positive regulation of protein phosphorylation,0.036395908482829885,NA,enriched
+GO_ORA,GO:0099537,trans-synaptic signaling,0.036395908482829885,NA,enriched
+GO_ORA,GO:0008064,regulation of actin polymerization or depolymerization,0.03668497063988554,NA,enriched
+GO_ORA,GO:0050729,positive regulation of inflammatory response,0.03668497063988554,NA,enriched
+GO_ORA,GO:0006970,response to osmotic stress,0.03668497063988554,NA,enriched
+GO_ORA,GO:0060993,kidney morphogenesis,0.03668497063988554,NA,enriched
+GO_ORA,GO:0007268,chemical synaptic transmission,0.036984144400536004,NA,enriched
+GO_ORA,GO:0098916,anterograde trans-synaptic signaling,0.036984144400536004,NA,enriched
+GO_ORA,GO:0032102,negative regulation of response to external stimulus,0.037015938828591576,NA,enriched
+GO_ORA,GO:0045859,regulation of protein kinase activity,0.037015938828591576,NA,enriched
+GO_ORA,GO:0051251,positive regulation of lymphocyte activation,0.037015938828591576,NA,enriched
+GO_ORA,GO:0046474,glycerophospholipid biosynthetic process,0.037249016883097584,NA,enriched
+GO_ORA,GO:1904951,positive regulation of establishment of protein localization,0.037468748092880026,NA,enriched
+GO_ORA,GO:0051046,regulation of secretion,0.03752704734177545,NA,enriched
+GO_ORA,GO:0001932,regulation of protein phosphorylation,0.03803738010004174,NA,enriched
+GO_ORA,GO:0006576,biogenic amine metabolic process,0.038654199694675505,NA,enriched
+GO_ORA,GO:0050919,negative chemotaxis,0.038654199694675505,NA,enriched
+GO_ORA,GO:0051496,positive regulation of stress fiber assembly,0.038654199694675505,NA,enriched
+GO_ORA,GO:0030148,sphingolipid biosynthetic process,0.038654199694675505,NA,enriched
+GO_ORA,GO:0090316,positive regulation of intracellular protein transport,0.038654199694675505,NA,enriched
+GO_ORA,GO:0003203,endocardial cushion morphogenesis,0.038904813293006435,NA,enriched
+GO_ORA,GO:0030224,monocyte differentiation,0.038904813293006435,NA,enriched
+GO_ORA,GO:1902547,regulation of cellular response to vascular endothelial growth factor stimulus,0.038904813293006435,NA,enriched
+GO_ORA,GO:0010881,regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion,0.03940394586483084,NA,enriched
+GO_ORA,GO:0033688,regulation of osteoblast proliferation,0.03940394586483084,NA,enriched
+GO_ORA,GO:0040036,regulation of fibroblast growth factor receptor signaling pathway,0.03940394586483084,NA,enriched
+GO_ORA,GO:0046337,phosphatidylethanolamine metabolic process,0.03940394586483084,NA,enriched
+GO_ORA,GO:0048645,animal organ formation,0.03940394586483084,NA,enriched
+GO_ORA,GO:2000353,positive regulation of endothelial cell apoptotic process,0.03940394586483084,NA,enriched
+GO_ORA,GO:1903530,regulation of secretion by cell,0.039540786672203065,NA,enriched
+GO_ORA,GO:0002262,myeloid cell homeostasis,0.03957581044194011,NA,enriched
+GO_ORA,GO:0006040,amino sugar metabolic process,0.039733978340599566,NA,enriched
+GO_ORA,GO:0046324,regulation of D-glucose import across plasma membrane,0.039733978340599566,NA,enriched
+GO_ORA,GO:0030500,regulation of bone mineralization,0.039733978340599566,NA,enriched
+GO_ORA,GO:0030865,cortical cytoskeleton organization,0.039733978340599566,NA,enriched
+GO_ORA,GO:0071470,cellular response to osmotic stress,0.039733978340599566,NA,enriched
+GO_ORA,GO:0045667,regulation of osteoblast differentiation,0.039733978340599566,NA,enriched
+GO_ORA,GO:0048644,muscle organ morphogenesis,0.039733978340599566,NA,enriched
+GO_ORA,GO:0051480,regulation of cytosolic calcium ion concentration,0.039733978340599566,NA,enriched
+GO_ORA,GO:0060415,muscle tissue morphogenesis,0.039733978340599566,NA,enriched
+GO_ORA,GO:0061005,cell differentiation involved in kidney development,0.039733978340599566,NA,enriched
+GO_ORA,GO:1990776,response to angiotensin,0.039733978340599566,NA,enriched
+GO_ORA,GO:0032944,regulation of mononuclear cell proliferation,0.04027280663443271,NA,enriched
+GO_ORA,GO:0045834,positive regulation of lipid metabolic process,0.04027280663443271,NA,enriched
+GO_ORA,GO:0022604,regulation of cell morphogenesis,0.040290284555073295,NA,enriched
+GO_ORA,GO:0071222,cellular response to lipopolysaccharide,0.04192785480383428,NA,enriched
+GO_ORA,GO:0001909,leukocyte mediated cytotoxicity,0.042277645643386215,NA,enriched
+GO_ORA,GO:0003300,cardiac muscle hypertrophy,0.042277645643386215,NA,enriched
+GO_ORA,GO:0170040,proteinogenic amino acid catabolic process,0.042277645643386215,NA,enriched
+GO_ORA,GO:0071219,cellular response to molecule of bacterial origin,0.04237099524485117,NA,enriched
+GO_ORA,GO:0030832,regulation of actin filament length,0.0423774691373579,NA,enriched
+GO_ORA,GO:1903034,regulation of response to wounding,0.0423774691373579,NA,enriched
+GO_ORA,GO:0008543,fibroblast growth factor receptor signaling pathway,0.04246500559218409,NA,enriched
+GO_ORA,GO:2001242,regulation of intrinsic apoptotic signaling pathway,0.04276205505772986,NA,enriched
+GO_ORA,GO:0046470,phosphatidylcholine metabolic process,0.04297534432438689,NA,enriched
+GO_ORA,GO:0046503,glycerolipid catabolic process,0.04297534432438689,NA,enriched
+GO_ORA,GO:0055006,cardiac cell development,0.04297534432438689,NA,enriched
+GO_ORA,GO:0050890,cognition,0.044074597441243465,NA,enriched
+GO_ORA,GO:0046328,regulation of JNK cascade,0.044074597441243465,NA,enriched
+GO_ORA,GO:0070663,regulation of leukocyte proliferation,0.044074597441243465,NA,enriched
+GO_ORA,GO:0034219,carbohydrate transmembrane transport,0.044074597441243465,NA,enriched
+GO_ORA,GO:0002313,mature B cell differentiation involved in immune response,0.044074597441243465,NA,enriched
+GO_ORA,GO:0003338,metanephros morphogenesis,0.044074597441243465,NA,enriched
+GO_ORA,GO:0010421,hydrogen peroxide-mediated programmed cell death,0.044074597441243465,NA,enriched
+GO_ORA,GO:0038166,angiotensin-activated signaling pathway,0.044074597441243465,NA,enriched
+GO_ORA,GO:0044320,cellular response to leptin stimulus,0.044074597441243465,NA,enriched
+GO_ORA,GO:0090051,negative regulation of cell migration involved in sprouting angiogenesis,0.044074597441243465,NA,enriched
+GO_ORA,GO:0097468,programmed cell death in response to reactive oxygen species,0.044074597441243465,NA,enriched
+GO_ORA,GO:0002062,chondrocyte differentiation,0.044074597441243465,NA,enriched
+GO_ORA,GO:1904659,D-glucose transmembrane transport,0.044074597441243465,NA,enriched
+GO_ORA,GO:0001885,endothelial cell development,0.044074597441243465,NA,enriched
+GO_ORA,GO:0072028,nephron morphogenesis,0.044074597441243465,NA,enriched
+GO_ORA,GO:0072088,nephron epithelium morphogenesis,0.044074597441243465,NA,enriched
+GO_ORA,GO:1905330,regulation of morphogenesis of an epithelium,0.044074597441243465,NA,enriched
+GO_ORA,GO:0006584,catecholamine metabolic process,0.044074597441243465,NA,enriched
+GO_ORA,GO:0009712,catechol-containing compound metabolic process,0.044074597441243465,NA,enriched
+GO_ORA,GO:0010574,regulation of vascular endothelial growth factor production,0.044074597441243465,NA,enriched
+GO_ORA,GO:0010575,positive regulation of vascular endothelial growth factor production,0.044074597441243465,NA,enriched
+GO_ORA,GO:0030857,negative regulation of epithelial cell differentiation,0.044074597441243465,NA,enriched
+GO_ORA,GO:0034391,regulation of smooth muscle cell apoptotic process,0.044074597441243465,NA,enriched
+GO_ORA,GO:0045687,positive regulation of glial cell differentiation,0.044074597441243465,NA,enriched
+GO_ORA,GO:0090075,relaxation of muscle,0.044074597441243465,NA,enriched
+GO_ORA,GO:0048259,regulation of receptor-mediated endocytosis,0.04427601525193308,NA,enriched
+GO_ORA,GO:0071466,cellular response to xenobiotic stimulus,0.04427601525193308,NA,enriched
+GO_ORA,GO:0007266,Rho protein signal transduction,0.04459225335911188,NA,enriched
+GO_ORA,GO:0016053,organic acid biosynthetic process,0.04459225335911188,NA,enriched
+GO_ORA,GO:0043254,regulation of protein-containing complex assembly,0.04459225335911188,NA,enriched
+GO_ORA,GO:0045600,positive regulation of fat cell differentiation,0.0455536169728557,NA,enriched
+GO_ORA,GO:0086009,membrane repolarization,0.0455536169728557,NA,enriched
+GO_ORA,GO:1903670,regulation of sprouting angiogenesis,0.0455536169728557,NA,enriched
+GO_ORA,GO:0072657,protein localization to membrane,0.0455536169728557,NA,enriched
+GO_ORA,GO:0002548,monocyte chemotaxis,0.0455536169728557,NA,enriched
+GO_ORA,GO:0003229,ventricular cardiac muscle tissue development,0.0455536169728557,NA,enriched
+GO_ORA,GO:0009226,nucleotide-sugar biosynthetic process,0.0455536169728557,NA,enriched
+GO_ORA,GO:0014741,negative regulation of muscle hypertrophy,0.0455536169728557,NA,enriched
+GO_ORA,GO:0045601,regulation of endothelial cell differentiation,0.0455536169728557,NA,enriched
+GO_ORA,GO:0061371,determination of heart left/right asymmetry,0.0455536169728557,NA,enriched
+GO_ORA,GO:0086004,regulation of cardiac muscle cell contraction,0.0455536169728557,NA,enriched
+GO_ORA,GO:0090077,foam cell differentiation,0.0455536169728557,NA,enriched
+GO_ORA,GO:0030282,bone mineralization,0.0455536169728557,NA,enriched
+GO_ORA,GO:1905477,positive regulation of protein localization to membrane,0.0455536169728557,NA,enriched
+GO_ORA,GO:0015711,organic anion transport,0.0464728770209806,NA,enriched
+GO_ORA,GO:0031346,positive regulation of cell projection organization,0.04674425115476206,NA,enriched
+GO_ORA,GO:0046632,alpha-beta T cell differentiation,0.047952854597539875,NA,enriched
+GO_ORA,GO:0055002,striated muscle cell development,0.047952854597539875,NA,enriched
+GO_ORA,GO:2001243,negative regulation of intrinsic apoptotic signaling pathway,0.047952854597539875,NA,enriched
+GO_ORA,GO:1904064,positive regulation of cation transmembrane transport,0.047952854597539875,NA,enriched
+GO_ORA,GO:2001057,reactive nitrogen species metabolic process,0.047952854597539875,NA,enriched
+GO_ORA,GO:0006508,proteolysis,0.048410990507281246,NA,enriched
+GO_ORA,GO:0031998,regulation of fatty acid beta-oxidation,0.048410990507281246,NA,enriched
+GO_ORA,GO:0032495,response to muramyl dipeptide,0.048410990507281246,NA,enriched
+GO_ORA,GO:0045472,response to ether,0.048410990507281246,NA,enriched
+GO_ORA,GO:0048714,positive regulation of oligodendrocyte differentiation,0.048410990507281246,NA,enriched
+GO_ORA,GO:0060914,heart formation,0.048410990507281246,NA,enriched
+GO_ORA,GO:0009225,nucleotide-sugar metabolic process,0.04842460047170152,NA,enriched
+GO_ORA,GO:0045428,regulation of nitric oxide biosynthetic process,0.04842460047170152,NA,enriched
+GO_ORA,GO:0170033,L-amino acid metabolic process,0.048736172363027595,NA,enriched
+GO_ORA,GO:0001657,ureteric bud development,0.048736172363027595,NA,enriched
+GO_ORA,GO:0009308,amine metabolic process,0.048736172363027595,NA,enriched
+GO_ORA,GO:0034198,cellular response to amino acid starvation,0.048736172363027595,NA,enriched
+GO_ORA,GO:0055123,digestive system development,0.048736172363027595,NA,enriched
+GO_ORA,GO:0045137,development of primary sexual characteristics,0.04893194931165181,NA,enriched
+GO_ORA,GO:0016358,dendrite development,0.04906518979617706,NA,enriched
+GO_ORA,GO:0006112,energy reserve metabolic process,0.04961007355349748,NA,enriched
+KEGG_ORA,hsa04820,Cytoskeleton in muscle cells,1.8155164029420923e-11,NA,enriched
+KEGG_ORA,hsa04510,Focal adhesion,2.377685028333155e-10,NA,enriched
+KEGG_ORA,hsa04810,Regulation of actin cytoskeleton,1.5167869069539505e-7,NA,enriched
+KEGG_ORA,hsa04518,Integrin signaling,1.8044354891112894e-7,NA,enriched
+KEGG_ORA,hsa05200,Pathways in cancer,2.769287171410698e-7,NA,enriched
+KEGG_ORA,hsa05206,MicroRNAs in cancer,4.420522515308899e-7,NA,enriched
+KEGG_ORA,hsa04933,AGE-RAGE signaling pathway in diabetic complications,1.0811183475795373e-6,NA,enriched
+KEGG_ORA,hsa04974,Protein digestion and absorption,1.0811183475795373e-6,NA,enriched
+KEGG_ORA,hsa04022,cGMP-PKG signaling pathway,1.6098999901342704e-6,NA,enriched
+KEGG_ORA,hsa05205,Proteoglycans in cancer,1.6098999901342704e-6,NA,enriched
+KEGG_ORA,hsa04611,Platelet activation,3.1937499473277226e-6,NA,enriched
+KEGG_ORA,hsa04270,Vascular smooth muscle contraction,2.0525877147225324e-5,NA,enriched
+KEGG_ORA,hsa04926,Relaxin signaling pathway,2.0525877147225324e-5,NA,enriched
+KEGG_ORA,hsa05165,Human papillomavirus infection,2.3312320753182793e-5,NA,enriched
+KEGG_ORA,hsa04072,Phospholipase D signaling pathway,2.3312320753182793e-5,NA,enriched
+KEGG_ORA,hsa04015,Rap1 signaling pathway,3.420694648089519e-5,NA,enriched
+KEGG_ORA,hsa04081,Hormone signaling,5.3987548690113164e-5,NA,enriched
+KEGG_ORA,hsa04218,Cellular senescence,1.2865249452415761e-4,NA,enriched
+KEGG_ORA,hsa04151,PI3K-Akt signaling pathway,1.917827525554289e-4,NA,enriched
+KEGG_ORA,hsa04725,Cholinergic synapse,2.1904982577691174e-4,NA,enriched
+KEGG_ORA,hsa04923,Regulation of lipolysis in adipocytes,2.1904982577691174e-4,NA,enriched
+KEGG_ORA,hsa04921,Oxytocin signaling pathway,2.1904982577691174e-4,NA,enriched
+KEGG_ORA,hsa04512,ECM-receptor interaction,3.415351648983861e-4,NA,enriched
+KEGG_ORA,hsa04625,C-type lectin receptor signaling pathway,4.2873740883245823e-4,NA,enriched
+KEGG_ORA,hsa04666,Fc gamma R-mediated phagosome formation,4.304501018304659e-4,NA,enriched
+KEGG_ORA,hsa05146,Amoebiasis,7.562531056889479e-4,NA,enriched
+KEGG_ORA,hsa04020,Calcium signaling pathway,7.681510048271337e-4,NA,enriched
+KEGG_ORA,hsa05163,Human cytomegalovirus infection,8.554501364902603e-4,NA,enriched
+KEGG_ORA,hsa04960,Aldosterone-regulated sodium reabsorption,0.0010424526467967008,NA,enriched
+KEGG_ORA,hsa04024,cAMP signaling pathway,0.0012031798770554564,NA,enriched
+KEGG_ORA,hsa05414,Dilated cardiomyopathy,0.0012618780415601407,NA,enriched
+KEGG_ORA,hsa05220,Chronic myeloid leukemia,0.0013219441491157846,NA,enriched
+KEGG_ORA,hsa04211,Longevity regulating pathway,0.0013443565423598596,NA,enriched
+KEGG_ORA,hsa05418,Fluid shear stress and atherosclerosis,0.0013443565423598596,NA,enriched
+KEGG_ORA,hsa04014,Ras signaling pathway,0.0013443565423598596,NA,enriched
+KEGG_ORA,hsa04935,"Growth hormone synthesis, secretion and action",0.0013443565423598596,NA,enriched
+KEGG_ORA,hsa04062,Chemokine signaling pathway,0.0014741660990097813,NA,enriched
+KEGG_ORA,hsa01521,EGFR tyrosine kinase inhibitor resistance,0.0015269522067181108,NA,enriched
+KEGG_ORA,hsa05214,Glioma,0.0016001246629596246,NA,enriched
+KEGG_ORA,hsa05218,Melanoma,0.0016173496539292145,NA,enriched
+KEGG_ORA,hsa04071,Sphingolipid signaling pathway,0.0018709720796983857,NA,enriched
+KEGG_ORA,hsa05167,Kaposi sarcoma-associated herpesvirus infection,0.0018790379062895682,NA,enriched
+KEGG_ORA,hsa04670,Leukocyte transendothelial migration,0.001955075288574725,NA,enriched
+KEGG_ORA,hsa04517,IgSF CAM signaling,0.001955075288574725,NA,enriched
+KEGG_ORA,hsa04750,Inflammatory mediator regulation of TRP channels,0.001965865076680756,NA,enriched
+KEGG_ORA,hsa01522,Endocrine resistance,0.0019997219744597914,NA,enriched
+KEGG_ORA,hsa05219,Bladder cancer,0.0019997219744597914,NA,enriched
+KEGG_ORA,hsa04261,Adrenergic signaling in cardiomyocytes,0.002148179565518043,NA,enriched
+KEGG_ORA,hsa04213,Longevity regulating pathway - multiple species,0.002286600584706737,NA,enriched
+KEGG_ORA,hsa04925,Aldosterone synthesis and secretion,0.002286600584706737,NA,enriched
+KEGG_ORA,hsa05410,Hypertrophic cardiomyopathy,0.002286600584706737,NA,enriched
+KEGG_ORA,hsa05212,Pancreatic cancer,0.0023454318338438696,NA,enriched
+KEGG_ORA,hsa05231,Choline metabolism in cancer,0.002770540425936857,NA,enriched
+KEGG_ORA,hsa04917,Prolactin signaling pathway,0.002770540425936857,NA,enriched
+KEGG_ORA,hsa05100,Bacterial invasion of epithelial cells,0.0029184542165859627,NA,enriched
+KEGG_ORA,hsa04360,Axon guidance,0.0030918540582096196,NA,enriched
+KEGG_ORA,hsa04540,Gap junction,0.003467025436071831,NA,enriched
+KEGG_ORA,hsa05215,Prostate cancer,0.003518723230492633,NA,enriched
+KEGG_ORA,hsa04713,Circadian entrainment,0.004322843130771908,NA,enriched
+KEGG_ORA,hsa05230,Central carbon metabolism in cancer,0.004322843130771908,NA,enriched
+KEGG_ORA,hsa04931,Insulin resistance,0.005158288138590014,NA,enriched
+KEGG_ORA,hsa04010,MAPK signaling pathway,0.005282014749669788,NA,enriched
+KEGG_ORA,hsa04530,Tight junction,0.005610937840581197,NA,enriched
+KEGG_ORA,hsa04722,Neurotrophin signaling pathway,0.005651210175255406,NA,enriched
+KEGG_ORA,hsa04929,GnRH secretion,0.005962663588270387,NA,enriched
+KEGG_ORA,hsa04912,GnRH signaling pathway,0.005962663588270387,NA,enriched
+KEGG_ORA,hsa04060,Cytokine-cytokine receptor interaction,0.00621484180068392,NA,enriched
+KEGG_ORA,hsa04550,Signaling pathways regulating pluripotency of stem cells,0.00621484180068392,NA,enriched
+KEGG_ORA,hsa04970,Salivary secretion,0.006407191175943173,NA,enriched
+KEGG_ORA,hsa05225,Hepatocellular carcinoma,0.006407191175943173,NA,enriched
+KEGG_ORA,hsa05131,Shigellosis,0.006407191175943173,NA,enriched
+KEGG_ORA,hsa05222,Small cell lung cancer,0.007055835898807849,NA,enriched
+KEGG_ORA,hsa04726,Serotonergic synapse,0.007374134584180327,NA,enriched
+KEGG_ORA,hsa04668,TNF signaling pathway,0.007795327909692384,NA,enriched
+KEGG_ORA,hsa04068,FoxO signaling pathway,0.008671019754445267,NA,enriched
+KEGG_ORA,hsa04371,Apelin signaling pathway,0.009638574721191959,NA,enriched
+KEGG_ORA,hsa05235,PD-L1 expression and PD-1 checkpoint pathway in cancer,0.009638574721191959,NA,enriched
+KEGG_ORA,hsa05135,Yersinia infection,0.01048717346114476,NA,enriched
+KEGG_ORA,hsa04915,Estrogen signaling pathway,0.01048717346114476,NA,enriched
+KEGG_ORA,hsa04370,VEGF signaling pathway,0.01048717346114476,NA,enriched
+KEGG_ORA,hsa04664,Fc epsilon RI signaling pathway,0.01048717346114476,NA,enriched
+KEGG_ORA,hsa05207,Chemical carcinogenesis - receptor activation,0.010615191324656001,NA,enriched
+KEGG_ORA,hsa05224,Breast cancer,0.010615191324656001,NA,enriched
+KEGG_ORA,hsa04978,Mineral absorption,0.01168762591994521,NA,enriched
+KEGG_ORA,hsa05144,Malaria,0.01266439052594572,NA,enriched
+KEGG_ORA,hsa04380,Osteoclast differentiation,0.013669183208658769,NA,enriched
+KEGG_ORA,hsa04519,Cadherin signaling,0.01452584055296008,NA,enriched
+KEGG_ORA,hsa04930,Type II diabetes mellitus,0.015177077201179176,NA,enriched
+KEGG_ORA,hsa00562,Inositol phosphate metabolism,0.01546224519323032,NA,enriched
+KEGG_ORA,hsa04070,Phosphatidylinositol signaling system,0.01546224519323032,NA,enriched
+KEGG_ORA,hsa05210,Colorectal cancer,0.01546224519323032,NA,enriched
+KEGG_ORA,hsa05211,Renal cell carcinoma,0.01546224519323032,NA,enriched
+KEGG_ORA,hsa00270,Cysteine and methionine metabolism,0.01759768997769216,NA,enriched
+KEGG_ORA,hsa05412,Arrhythmogenic right ventricular cardiomyopathy,0.017819453296029433,NA,enriched
+KEGG_ORA,hsa04972,Pancreatic secretion,0.01811509755982533,NA,enriched
+KEGG_ORA,hsa04630,JAK-STAT signaling pathway,0.019532241745585505,NA,enriched
+KEGG_ORA,hsa05223,Non-small cell lung cancer,0.019631245782449843,NA,enriched
+KEGG_ORA,hsa05161,Hepatitis B,0.019631245782449843,NA,enriched
+KEGG_ORA,hsa05221,Acute myeloid leukemia,0.02348435404459624,NA,enriched
+KEGG_ORA,hsa04927,Cortisol synthesis and secretion,0.023995698004633994,NA,enriched
+KEGG_ORA,hsa04919,Thyroid hormone signaling pathway,0.024779063805901207,NA,enriched
+KEGG_ORA,hsa04730,Long-term depression,0.03272530871712711,NA,enriched
+KEGG_ORA,hsa04392,Hippo signaling pathway - multiple species,0.03272530871712711,NA,enriched
+KEGG_ORA,hsa04613,Neutrophil extracellular trap formation,0.03272530871712711,NA,enriched
+KEGG_ORA,hsa04061,Viral protein interaction with cytokine and cytokine receptor,0.03575499968936185,NA,enriched
+KEGG_ORA,hsa04720,Long-term potentiation,0.03598184739466054,NA,enriched
+KEGG_ORA,hsa04650,Natural killer cell mediated cytotoxicity,0.036212090266536025,NA,enriched
+KEGG_ORA,hsa05213,Endometrial cancer,0.039622951827831175,NA,enriched
+KEGG_ORA,hsa04724,Glutamatergic synapse,0.039622951827831175,NA,enriched
+KEGG_ORA,hsa04911,Insulin secretion,0.04093499838888928,NA,enriched
+KEGG_ORA,hsa04913,Ovarian steroidogenesis,0.04193018419151479,NA,enriched
+KEGG_ORA,hsa04727,GABAergic synapse,0.04707190305478481,NA,enriched
+KEGG_ORA,hsa04918,Thyroid hormone synthesis,0.04707190305478481,NA,enriched
+KEGG_ORA,hsa04981,Folate transport and metabolism,0.048094210714756606,NA,enriched
+KEGG_ORA,hsa04976,Bile secretion,0.04849410562836674,NA,enriched
+KEGG_ORA,hsa04928,"Parathyroid hormone synthesis, secretion and action",0.04890165603214903,NA,enriched
+KEGG_ORA,hsa05226,Gastric cancer,0.04943395480584363,NA,enriched
+KEGG_ORA,hsa00564,Glycerophospholipid metabolism,0.04966886185642099,NA,enriched
+KEGG_ORA,hsa05203,Viral carcinogenesis,0.04966886185642099,NA,enriched
+GSEA_GO,GO:0014888,striated muscle adaptation,0.06073144089812202,2.0943260959120824,up
+GSEA_GO,GO:1901570,fatty acid derivative biosynthetic process,0.06073144089812202,1.9860217145706958,up
+GSEA_GO,GO:0035357,peroxisome proliferator activated receptor signaling pathway,0.06073144089812202,1.9837777289825205,up
+GSEA_GO,GO:0035358,regulation of peroxisome proliferator activated receptor signaling pathway,0.07675886470272583,1.9798698322391075,up
+GSEA_GO,GO:0003299,muscle hypertrophy in response to stress,0.06073144089812202,1.9767189029595205,up
+GSEA_GO,GO:0014887,cardiac muscle adaptation,0.06073144089812202,1.9767189029595205,up
+GSEA_GO,GO:0014898,cardiac muscle hypertrophy in response to stress,0.06073144089812202,1.9767189029595205,up
+GSEA_GO,GO:0014896,muscle hypertrophy,0.06095960185241024,1.973782754543434,up
+GSEA_GO,GO:0010906,regulation of glucose metabolic process,0.06737944359826824,1.9652041730897403,up
+GSEA_GO,GO:0097501,stress response to metal ion,0.06073144089812202,1.9580325156652443,up
+GSEA_GO,GO:0050951,sensory perception of temperature stimulus,0.06073144089812202,-1.94261569257257,down
+GSEA_GO,GO:0014897,striated muscle hypertrophy,0.06073144089812202,1.9403488259948254,up
+GSEA_GO,GO:0071294,cellular response to zinc ion,0.07896122875326815,1.9190364125551567,up
+GSEA_GO,GO:0003300,cardiac muscle hypertrophy,0.06095960185241024,1.9166869924833385,up
+GSEA_GO,GO:0071276,cellular response to cadmium ion,0.07939290029550665,1.9143971214859954,up
+GSEA_GO,GO:0061687,detoxification of inorganic compound,0.10718444564093192,1.9057212284578082,up
+GSEA_GO,GO:0043500,muscle adaptation,0.06073144089812202,1.9056961690025565,up
+GSEA_GO,GO:0044321,response to leptin,0.14582060739118316,1.8958067492514545,up
+GSEA_GO,GO:0044320,cellular response to leptin stimulus,0.15358835201476287,1.895511219649202,up
+GSEA_GO,GO:0071280,cellular response to copper ion,0.12233279744702706,1.8894814592046785,up
+GSEA_GO,GO:0042471,ear morphogenesis,0.08104808372061952,-1.887340854333342,down
+GSEA_GO,GO:0048799,animal organ maturation,0.12233279744702706,1.8846898186103773,up
+GSEA_GO,GO:0070977,bone maturation,0.12233279744702706,1.8846898186103773,up
+GSEA_GO,GO:0010742,macrophage derived foam cell differentiation,0.12233279744702706,1.880469275127024,up
+GSEA_GO,GO:0003091,renal water homeostasis,0.12233279744702706,-1.877396994720275,down
+GSEA_GO,GO:0035360,positive regulation of peroxisome proliferator activated receptor signaling pathway,0.11942825790995268,1.8767033592318942,up
+GSEA_GO,GO:0006882,intracellular zinc ion homeostasis,0.12233279744702706,1.871577717511866,up
+GSEA_GO,GO:0007492,endoderm development,0.12233279744702706,1.866936210204963,up
+GSEA_GO,GO:0010743,regulation of macrophage derived foam cell differentiation,0.17203538571152158,1.8645157907446517,up
+GSEA_GO,GO:0045684,positive regulation of epidermis development,0.18422595585235282,1.8621156493248205,up
+GSEA_GO,GO:0060986,endocrine hormone secretion,0.13704278723608337,1.8608084650791006,up
+GSEA_GO,GO:0006112,energy reserve metabolic process,0.12233279744702706,1.8589383377985302,up
+GSEA_GO,GO:0001706,endoderm formation,0.11942825790995268,1.8579354753826893,up
+GSEA_GO,GO:0010907,positive regulation of glucose metabolic process,0.14582060739118316,1.851643955197159,up
+GSEA_GO,GO:0090077,foam cell differentiation,0.12233279744702706,1.8422172052368113,up
+GSEA_GO,GO:0098704,carbohydrate import across plasma membrane,0.12233279744702706,1.8410990939617755,up
+GSEA_GO,GO:0098708,D-glucose import across plasma membrane,0.12233279744702706,1.8410990939617755,up
+GSEA_GO,GO:0140271,hexose import across plasma membrane,0.12233279744702706,1.8410990939617755,up
+GSEA_GO,GO:0045618,positive regulation of keratinocyte differentiation,0.13321833481868836,1.8375363558964946,up
+GSEA_GO,GO:0010827,regulation of D-glucose transmembrane transport,0.12233279744702706,1.8351508287131622,up
+GSEA_GO,GO:0010828,positive regulation of D-glucose transmembrane transport,0.16723915212933094,1.8345147628134872,up
+GSEA_GO,GO:0060038,cardiac muscle cell proliferation,0.12233279744702706,-1.8342753085189232,down
+GSEA_GO,GO:0043931,ossification involved in bone maturation,0.13704278723608337,1.8317363480702231,up
+GSEA_GO,GO:0006171,cAMP biosynthetic process,0.07939290029550665,-1.8314682073505917,down
+GSEA_GO,GO:0071385,cellular response to glucocorticoid stimulus,0.11316647976278409,1.8310580943957722,up
+GSEA_GO,GO:0050891,multicellular organismal-level water homeostasis,0.12233279744702706,-1.8277225860171813,down
+GSEA_GO,GO:0046686,response to cadmium ion,0.12233279744702706,1.8260461385110198,up
+GSEA_GO,GO:0051962,positive regulation of nervous system development,0.06073144089812202,-1.826021401190397,down
+GSEA_GO,GO:1904659,D-glucose transmembrane transport,0.12233279744702706,1.825893298129658,up
+GSEA_GO,GO:0010744,positive regulation of macrophage derived foam cell differentiation,0.14582060739118316,1.8206189308362422,up
+GSEA_GO,GO:0071377,cellular response to glucagon stimulus,0.14401788052177295,-1.8180206053037793,down
+GSEA_GO,GO:0044060,regulation of endocrine process,0.16723915212933094,1.812421607469061,up
+GSEA_GO,GO:0072376,protein activation cascade,0.15358835201476287,1.812024192864798,up
+GSEA_GO,GO:0008645,hexose transmembrane transport,0.12233279744702706,1.808955337593123,up
+GSEA_GO,GO:0046324,regulation of D-glucose import across plasma membrane,0.12233279744702706,1.8066980620289441,up
+GSEA_GO,GO:0035136,forelimb morphogenesis,0.14197040282617465,-1.8055752677790524,down
+GSEA_GO,GO:0046058,cAMP metabolic process,0.12233279744702706,-1.8029546792637927,down
+GSEA_GO,GO:0044273,sulfur compound catabolic process,0.18422595585235282,1.8014527420995035,up
+GSEA_GO,GO:0032869,cellular response to insulin stimulus,0.06095960185241024,1.8009001095183363,up
+GSEA_GO,GO:0061384,heart trabecula morphogenesis,0.1695287239155342,-1.7985087021357873,down
+GSEA_GO,GO:0009151,purine deoxyribonucleotide metabolic process,0.18422595585235282,1.7965721927085183,up
+GSEA_GO,GO:2001046,positive regulation of integrin-mediated signaling pathway,0.18536383685978322,1.7938678233302865,up
+GSEA_GO,GO:1900744,regulation of p38MAPK cascade,0.17647173159547397,1.7933603401349252,up
+GSEA_GO,GO:0006006,glucose metabolic process,0.07675886470272583,1.7908989366503523,up
+GSEA_GO,GO:0042472,inner ear morphogenesis,0.15733590902964606,-1.7893822352649202,down
+GSEA_GO,GO:1901568,fatty acid derivative metabolic process,0.12250155061682327,1.7876075426856783,up
+GSEA_GO,GO:0051384,response to glucocorticoid,0.12233279744702706,1.7869503861509657,up
+GSEA_GO,GO:0015749,monosaccharide transmembrane transport,0.14618573621334036,1.7833169407973057,up
+GSEA_GO,GO:0010273,detoxification of copper ion,0.06073144089812202,1.7825222813327322,up
+GSEA_GO,GO:1990169,stress response to copper ion,0.06073144089812202,1.7825222813327322,up
+GSEA_GO,GO:0010766,negative regulation of sodium ion transport,0.1623551298630715,-1.7819139834611537,down
+GSEA_GO,GO:0046688,response to copper ion,0.2018959672402158,1.777595804252074,up
+GSEA_GO,GO:0071731,response to nitric oxide,0.25014431986629393,1.777086026908767,up
+GSEA_GO,GO:0045606,positive regulation of epidermal cell differentiation,0.18422595585235282,1.7767221534406201,up
+GSEA_GO,GO:0019226,transmission of nerve impulse,0.1548192245876677,-1.7757514915882044,down
+GSEA_GO,GO:1900024,regulation of substrate adhesion-dependent cell spreading,0.12233279744702706,1.7751954728520392,up
+GSEA_GO,GO:0003230,cardiac atrium development,0.18631156146990055,-1.7745182573888454,down
+GSEA_GO,GO:2001212,regulation of vasculogenesis,0.22282985815779288,1.7730435137322458,up
+GSEA_GO,GO:0060045,positive regulation of cardiac muscle cell proliferation,0.18892013565226914,-1.7724657580583394,down
+GSEA_GO,GO:0140962,multicellular organismal-level chemical homeostasis,0.12233279744702706,-1.7716943261551543,down
+GSEA_GO,GO:0046326,positive regulation of D-glucose import across plasma membrane,0.20193414955028965,1.7699419700968058,up
+GSEA_GO,GO:0021762,substantia nigra development,0.18422595585235282,1.7693637678320107,up
+GSEA_GO,GO:0070873,regulation of glycogen metabolic process,0.18422595585235282,1.7652933023575834,up
+GSEA_GO,GO:0150118,negative regulation of cell-substrate junction organization,0.18536383685978322,1.7649809012335365,up
+GSEA_GO,GO:0007622,rhythmic behavior,0.1631274094383354,-1.764772143953651,down
+GSEA_GO,GO:0048512,circadian behavior,0.1631274094383354,-1.764772143953651,down
+GSEA_GO,GO:0071384,cellular response to corticosteroid stimulus,0.16723915212933094,1.7646421149728868,up
+GSEA_GO,GO:2001259,positive regulation of cation channel activity,0.15358835201476287,-1.763616136234917,down
+GSEA_GO,GO:0051965,positive regulation of synapse assembly,0.14582060739118316,-1.762606214576114,down
+GSEA_GO,GO:0035115,embryonic forelimb morphogenesis,0.15358835201476287,-1.7599232293211462,down
+GSEA_GO,GO:0045648,positive regulation of erythrocyte differentiation,0.16821354840087152,1.759781782225193,up
+GSEA_GO,GO:0050805,negative regulation of synaptic transmission,0.14582060739118316,-1.7557860805370726,down
+GSEA_GO,GO:0010612,regulation of cardiac muscle adaptation,0.18422595585235282,1.7555354013402997,up
+GSEA_GO,GO:1903242,regulation of cardiac muscle hypertrophy in response to stress,0.18422595585235282,1.7555354013402997,up
+GSEA_GO,GO:0003222,ventricular trabecula myocardium morphogenesis,0.15665406633528442,-1.7554694349585689,down
+GSEA_GO,GO:0003228,atrial cardiac muscle tissue development,0.15665406633528442,-1.7553920548204678,down
+GSEA_GO,GO:0010810,regulation of cell-substrate adhesion,0.06073144089812202,1.7547247242070911,up
+GSEA_GO,GO:0008286,insulin receptor signaling pathway,0.11896912385387884,1.7536319548820194,up
+GSEA_GO,GO:0030431,sleep,0.09675189240304981,-1.7511349068273454,down
+GSEA_GO,GO:0045687,positive regulation of glial cell differentiation,0.16821354840087152,-1.7504321028422123,down
+GSEA_GO,GO:0060043,regulation of cardiac muscle cell proliferation,0.18847495446905793,-1.7489054384272509,down
+GSEA_GO,GO:0045722,positive regulation of gluconeogenesis,0.2018959672402158,1.748016372703537,up
+GSEA_GO,GO:0007613,memory,0.12233279744702706,-1.747817703802252,down
+GSEA_GO,GO:0003382,epithelial cell morphogenesis,0.1947884551384769,1.7454898051347822,up
+GSEA_GO,GO:1900273,positive regulation of long-term synaptic potentiation,0.20016688761602427,-1.7450295513199758,down
+GSEA_GO,GO:0022038,corpus callosum development,0.1695287239155342,-1.743138893635863,down
+GSEA_GO,GO:0097700,vascular endothelial cell response to laminar fluid shear stress,0.19272719243040562,-1.7425727425795932,down
+GSEA_GO,GO:0043543,protein acylation,0.12233279744702706,1.7423564631285446,up
+GSEA_GO,GO:0050961,detection of temperature stimulus involved in sensory perception,0.18536383685978322,-1.7419507201529563,down
+GSEA_GO,GO:0019336,phenol-containing compound catabolic process,0.18536383685978322,1.7409041031877648,up
+GSEA_GO,GO:0043651,linoleic acid metabolic process,0.20016688761602427,1.7406665598721898,up
+GSEA_GO,GO:0006534,cysteine metabolic process,0.18536383685978322,1.7388414830514032,up
+GSEA_GO,GO:0003283,atrial septum development,0.18536383685978322,-1.7385318815069204,down
+GSEA_GO,GO:0007188,adenylate cyclase-modulating G protein-coupled receptor signaling pathway,0.07939290029550665,-1.7369820162346892,down
+GSEA_GO,GO:0007405,neuroblast proliferation,0.15358835201476287,-1.7355711378456844,down
+GSEA_GO,GO:0016185,synaptic vesicle budding from presynaptic endocytic zone membrane,0.18631156146990055,-1.7352684901183115,down
+GSEA_GO,GO:0052652,cyclic purine nucleotide metabolic process,0.18422595585235282,-1.734968894023742,down
+GSEA_GO,GO:0099171,presynaptic modulation of chemical synaptic transmission,0.18536383685978322,-1.7345206181248702,down
+GSEA_GO,GO:0072378,"blood coagulation, fibrin clot formation",0.19272719243040562,1.7326109936211382,up
+GSEA_GO,GO:0050848,regulation of calcium-mediated signaling,0.20016688761602427,1.7320748172170963,up
+GSEA_GO,GO:0006536,glutamate metabolic process,0.2913257081518171,1.730346450200993,up
+GSEA_GO,GO:0034440,lipid oxidation,0.16723915212933094,1.729075967372064,up
+GSEA_GO,GO:0060413,atrial septum morphogenesis,0.12233279744702706,-1.7287715215687525,down
+GSEA_GO,GO:0034331,cell junction maintenance,0.1822834896776032,1.7287327687246399,up
+GSEA_GO,GO:0051895,negative regulation of focal adhesion assembly,0.20533195340852117,1.7281548536470777,up
+GSEA_GO,GO:0003016,respiratory system process,0.21759622229366116,-1.7279046682804984,down
+GSEA_GO,GO:0005977,glycogen metabolic process,0.18422595585235282,1.727205577314168,up
+GSEA_GO,GO:0044042,glucan metabolic process,0.18422595585235282,1.727205577314168,up
+GSEA_GO,GO:0046637,regulation of alpha-beta T cell differentiation,0.16723915212933094,1.7264041026452275,up
+GSEA_GO,GO:0070230,positive regulation of lymphocyte apoptotic process,0.18422595585235282,-1.7250747162740259,down
+GSEA_GO,GO:0090200,positive regulation of release of cytochrome c from mitochondria,0.1822834896776032,-1.72477745246146,down
+GSEA_GO,GO:0043954,cellular component maintenance,0.16402064061688656,1.72415464714601,up
+GSEA_GO,GO:0019233,sensory perception of pain,0.16723915212933094,-1.7238237054234258,down
+GSEA_GO,GO:0046341,CDP-diacylglycerol metabolic process,0.20885643275037813,1.7221092086067318,up
+GSEA_GO,GO:0009155,purine deoxyribonucleotide catabolic process,0.24856951493508198,1.7208075012511388,up
+GSEA_GO,GO:0009190,cyclic nucleotide biosynthetic process,0.22282985815779288,-1.7194460445144326,down
+GSEA_GO,GO:1902306,negative regulation of sodium ion transmembrane transport,0.12233279744702706,-1.7181584987779384,down
+GSEA_GO,GO:1902001,fatty acid transmembrane transport,0.22757049274299365,1.7163124214876084,up
+GSEA_GO,GO:0001764,neuron migration,0.12233279744702706,-1.7159866940560993,down
+GSEA_GO,GO:0001952,regulation of cell-matrix adhesion,0.14582060739118316,1.7150063387520762,up
+GSEA_GO,GO:0009187,cyclic nucleotide metabolic process,0.22282985815779288,-1.7149669046931806,down
+GSEA_GO,GO:0034446,substrate adhesion-dependent cell spreading,0.15770324186043802,1.7146945317454332,up
+GSEA_GO,GO:0014015,positive regulation of gliogenesis,0.16723915212933094,-1.7146667997753169,down
+GSEA_GO,GO:0000098,sulfur amino acid catabolic process,0.22218782090248923,1.7122003334718758,up
+GSEA_GO,GO:2000114,regulation of establishment of cell polarity,0.3073313246003301,1.7103262836089221,up
+GSEA_GO,GO:0031960,response to corticosteroid,0.12233279744702706,1.7096395126469637,up
+GSEA_GO,GO:0070142,synaptic vesicle budding,0.19272719243040562,-1.7085409698296756,down
+GSEA_GO,GO:0006109,regulation of carbohydrate metabolic process,0.1124585593325682,1.7062665581951062,up
+GSEA_GO,GO:0043501,skeletal muscle adaptation,0.16821354840087152,1.7059205479484087,up
+GSEA_GO,GO:1904322,cellular response to forskolin,0.20193414955028965,-1.7049903280391026,down
+GSEA_GO,GO:0007193,adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway,0.18536383685978322,-1.7031200254021348,down
+GSEA_GO,GO:1990859,cellular response to endothelin,0.2165405021067563,1.702933913713189,up
+GSEA_GO,GO:0046622,positive regulation of organ growth,0.20016688761602427,-1.7020674239681999,down
+GSEA_GO,GO:0060221,retinal rod cell differentiation,0.16230118999137788,-1.7005222437772045,down
+GSEA_GO,GO:0071732,cellular response to nitric oxide,0.2636580367686293,1.7004649078085723,up
+GSEA_GO,GO:1902170,cellular response to reactive nitrogen species,0.2636580367686293,1.7004649078085723,up
+GSEA_GO,GO:0044272,sulfur compound biosynthetic process,0.12233279744702706,1.7003033004588097,up
+GSEA_GO,GO:0042759,long-chain fatty acid biosynthetic process,0.22282985815779288,1.7000504836837673,up
+GSEA_GO,GO:0007632,visual behavior,0.24856951493508198,-1.6997946398127364,down
+GSEA_GO,GO:0043502,regulation of muscle adaptation,0.1822834896776032,1.6997389881143383,up
+GSEA_GO,GO:1901185,negative regulation of ERBB signaling pathway,0.20016688761602427,1.6988433843943995,up
+GSEA_GO,GO:0050650,chondroitin sulfate proteoglycan biosynthetic process,0.23418390985861504,1.6985183258622614,up
+GSEA_GO,GO:1901889,negative regulation of cell junction assembly,0.18422595585235282,1.6984346886615387,up
+GSEA_GO,GO:0016102,diterpenoid biosynthetic process,0.1649617019594521,-1.6974099098711535,down
+GSEA_GO,GO:0000097,sulfur amino acid biosynthetic process,0.334873352243947,1.6973036331657068,up
+GSEA_GO,GO:0051893,regulation of focal adhesion assembly,0.19272719243040562,1.6970768165265087,up
+GSEA_GO,GO:0090109,regulation of cell-substrate junction assembly,0.19272719243040562,1.6970768165265087,up
+GSEA_GO,GO:0055023,positive regulation of cardiac muscle tissue growth,0.20193414955028965,-1.6964309944727674,down
+GSEA_GO,GO:0050849,negative regulation of calcium-mediated signaling,0.2682793608919743,1.6963108180651396,up
+GSEA_GO,GO:0019318,hexose metabolic process,0.12233279744702706,1.6927705644833257,up
+GSEA_GO,GO:1900452,regulation of long-term synaptic depression,0.21702362435550426,-1.6921741163138122,down
+GSEA_GO,GO:0099558,maintenance of synapse structure,0.2289968332454968,1.6918873538216341,up
+GSEA_GO,GO:0014743,regulation of muscle hypertrophy,0.22282985815779288,1.6915345829605095,up
+GSEA_GO,GO:0060840,artery development,0.1822834896776032,-1.6913892200311642,down
+GSEA_GO,GO:0032868,response to insulin,0.07675886470272583,1.690392745752477,up
+GSEA_GO,GO:0043255,regulation of carbohydrate biosynthetic process,0.20016688761602427,1.6902679733789847,up
+GSEA_GO,GO:0097699,vascular endothelial cell response to fluid shear stress,0.20016688761602427,-1.689017275164904,down
+GSEA_GO,GO:0090257,regulation of muscle system process,0.11918981457144925,1.6889894017724991,up
+GSEA_GO,GO:0043583,ear development,0.14582060739118316,-1.688830290929272,down
+GSEA_GO,GO:0032881,regulation of polysaccharide metabolic process,0.20193414955028965,1.6887956327792684,up
+GSEA_GO,GO:0006497,protein lipidation,0.22282985815779288,1.6878425641262313,up
+GSEA_GO,GO:0046638,positive regulation of alpha-beta T cell differentiation,0.20016688761602427,1.687803709132812,up
+GSEA_GO,GO:0070234,positive regulation of T cell apoptotic process,0.20193414955028965,-1.6870605680266315,down
+GSEA_GO,GO:0001953,negative regulation of cell-matrix adhesion,0.22358231695820904,1.686381168111681,up
+GSEA_GO,GO:0150116,regulation of cell-substrate junction organization,0.20016688761602427,1.6860260222123022,up
+GSEA_GO,GO:0050965,detection of temperature stimulus involved in sensory perception of pain,0.209293889313685,-1.684137090649943,down
+GSEA_GO,GO:2000191,regulation of fatty acid transport,0.2628613452248919,1.6830957494140801,up
+GSEA_GO,GO:0006825,copper ion transport,0.319250395890975,1.6828264368624426,up
+GSEA_GO,GO:0048536,spleen development,0.2628613452248919,1.6805830768536207,up
+GSEA_GO,GO:1900076,regulation of cellular response to insulin stimulus,0.20113505478647598,1.6795098228035152,up
+GSEA_GO,GO:0006641,triglyceride metabolic process,0.18422595585235282,1.6792911992488024,up
+GSEA_GO,GO:0048839,inner ear development,0.189652602626167,-1.676112663197044,down
+GSEA_GO,GO:0035272,exocrine system development,0.26298344497021714,-1.6754440352449842,down
+GSEA_GO,GO:0032274,gonadotropin secretion,0.2682793608919743,1.6750397326249202,up
+GSEA_GO,GO:0007099,centriole replication,0.18735657904367284,-1.6750097873887504,down
+GSEA_GO,GO:0170035,L-amino acid catabolic process,0.20016688761602427,1.6748596730936227,up
+GSEA_GO,GO:0007431,salivary gland development,0.2212913159145132,-1.6743997227181675,down
+GSEA_GO,GO:1904321,response to forskolin,0.2636580367686293,-1.6739239035117484,down
+GSEA_GO,GO:0007189,adenylate cyclase-activating G protein-coupled receptor signaling pathway,0.1822834896776032,-1.6734764177755963,down
+GSEA_GO,GO:0070884,regulation of calcineurin-NFAT signaling cascade,0.2549753249376465,1.6734747702254578,up
+GSEA_GO,GO:0106056,regulation of calcineurin-mediated signaling,0.2549753249376465,1.6734747702254578,up
+GSEA_GO,GO:0045906,negative regulation of vasoconstriction,0.2628613452248919,1.6734126790261303,up
+GSEA_GO,GO:0007229,integrin-mediated signaling pathway,0.18536383685978322,1.6730969390684305,up
+GSEA_GO,GO:0005976,polysaccharide metabolic process,0.18422595585235282,1.6726773459921271,up
+GSEA_GO,GO:0018345,protein palmitoylation,0.2628613452248919,1.6714268491063209,up
+GSEA_GO,GO:0031915,positive regulation of synaptic plasticity,0.22359163675559693,-1.671373655494462,down
+GSEA_GO,GO:1900745,positive regulation of p38MAPK cascade,0.2628613452248919,1.6698049123520986,up
+GSEA_GO,GO:0031589,cell-substrate adhesion,0.07896122875326815,1.6688409691563972,up
+GSEA_GO,GO:0110076,negative regulation of ferroptosis,0.23478630065577696,-1.6687528088939148,down
+GSEA_GO,GO:0032924,activin receptor signaling pathway,0.20016688761602427,1.6677058965170823,up
+GSEA_GO,GO:0042158,lipoprotein biosynthetic process,0.22282985815779288,1.6673540995100014,up
+GSEA_GO,GO:0006470,protein dephosphorylation,0.15733590902964606,1.665799847349273,up
+GSEA_GO,GO:0048857,neural nucleus development,0.1822834896776032,1.6656367467782067,up
+GSEA_GO,GO:0045616,regulation of keratinocyte differentiation,0.26666411481401514,1.6652044184806674,up
+GSEA_GO,GO:0046632,alpha-beta T cell differentiation,0.16132714131425552,1.6650069037697433,up
+GSEA_GO,GO:0072189,ureter development,0.18536383685978322,-1.6639363279561776,down
+GSEA_GO,GO:0045604,regulation of epidermal cell differentiation,0.2628613452248919,1.6631049039492185,up
+GSEA_GO,GO:0050886,endocrine process,0.20016688761602427,1.662906745710113,up
+GSEA_GO,GO:0016054,organic acid catabolic process,0.10962369604374514,1.6625406059903662,up
+GSEA_GO,GO:0046395,carboxylic acid catabolic process,0.10962369604374514,1.6625406059903662,up
+GSEA_GO,GO:0061298,retina vasculature development in camera-type eye,0.2636580367686293,1.6624281574608832,up
+GSEA_GO,GO:0010611,regulation of cardiac muscle hypertrophy,0.2165405021067563,1.6615800698498249,up
+GSEA_GO,GO:0045187,"regulation of circadian sleep/wake cycle, sleep",0.18536383685978322,-1.6604559166294468,down
+GSEA_GO,GO:0050802,"circadian sleep/wake cycle, sleep",0.18536383685978322,-1.6604559166294468,down
+GSEA_GO,GO:0001946,lymphangiogenesis,0.2628613452248919,1.6592428510310433,up
+GSEA_GO,GO:0046716,muscle cell cellular homeostasis,0.2628613452248919,1.6587375242709534,up
+GSEA_GO,GO:0048009,insulin-like growth factor receptor signaling pathway,0.209293889313685,1.6583642564938372,up
+GSEA_GO,GO:0035987,endodermal cell differentiation,0.20016688761602427,1.6582925862883815,up
+GSEA_GO,GO:0034698,response to gonadotropin,0.35185534254818995,1.658039041820453,up
+GSEA_GO,GO:0003012,muscle system process,0.06073144089812202,1.6570934466551597,up
+GSEA_GO,GO:1904754,positive regulation of vascular associated smooth muscle cell migration,0.32192415936616287,1.656159460144398,up
+GSEA_GO,GO:2001214,positive regulation of vasculogenesis,0.2636580367686293,1.6561401210139715,up
+GSEA_GO,GO:0055064,chloride ion homeostasis,0.18422595585235282,-1.6559741535835482,down
+GSEA_GO,GO:0042745,circadian sleep/wake cycle,0.24856951493508198,-1.6554378458209695,down
+GSEA_GO,GO:0055021,regulation of cardiac muscle tissue growth,0.20220354519252742,-1.655125988449575,down
+GSEA_GO,GO:0000096,sulfur amino acid metabolic process,0.23954462509855615,1.653420795709417,up
+GSEA_GO,GO:1903053,regulation of extracellular matrix organization,0.20016688761602427,1.6512521853981883,up
+GSEA_GO,GO:0048148,behavioral response to cocaine,0.17647173159547397,-1.6511239421022073,down
+GSEA_GO,GO:0005996,monosaccharide metabolic process,0.12233279744702706,1.6505924621014685,up
+GSEA_GO,GO:0032623,interleukin-2 production,0.2628613452248919,1.6503373539122614,up
+GSEA_GO,GO:0032663,regulation of interleukin-2 production,0.2628613452248919,1.6503373539122614,up
+GSEA_GO,GO:0071542,dopaminergic neuron differentiation,0.32192415936616287,-1.6500054944321714,down
+GSEA_GO,GO:0006678,glucosylceramide metabolic process,0.2682793608919743,1.6474805735737268,up
+GSEA_GO,GO:0014889,muscle atrophy,0.2165405021067563,1.6465447822145662,up
+GSEA_GO,GO:0006677,glycosylceramide metabolic process,0.35234925902759806,1.6464843754512928,up
+GSEA_GO,GO:0050769,positive regulation of neurogenesis,0.12233279744702706,-1.6451015366525363,down
+GSEA_GO,GO:0060421,positive regulation of heart growth,0.30679365530606856,-1.64469661588099,down
+GSEA_GO,GO:1901606,alpha-amino acid catabolic process,0.22282985815779288,1.6444015741223013,up
+GSEA_GO,GO:0060973,cell migration involved in heart development,0.2939487294212437,-1.644378275603021,down
+GSEA_GO,GO:0170044,non-proteinogenic amino acid catabolic process,0.2861494697466404,1.6424030019390856,up
+GSEA_GO,GO:0051960,regulation of nervous system development,0.06073144089812202,-1.6410307859789421,down
+GSEA_GO,GO:0036017,response to erythropoietin,0.3195942528347143,1.6406219745418729,up
+GSEA_GO,GO:0016024,CDP-diacylglycerol biosynthetic process,0.33784893036648467,1.6406049601921022,up
+GSEA_GO,GO:2001044,regulation of integrin-mediated signaling pathway,0.33181015168245215,1.639627691666158,up
+GSEA_GO,GO:0070229,negative regulation of lymphocyte apoptotic process,0.4300805532950255,1.6393191009473567,up
+GSEA_GO,GO:1990839,response to endothelin,0.2939487294212437,1.6385841007749637,up
+GSEA_GO,GO:0008542,visual learning,0.30679365530606856,-1.6383712624316986,down
+GSEA_GO,GO:0072577,endothelial cell apoptotic process,0.2628613452248919,1.6374913762309191,up
+GSEA_GO,GO:0045682,regulation of epidermis development,0.33784893036648467,1.6355446005726972,up
+GSEA_GO,GO:0150105,protein localization to cell-cell junction,0.29974818328503083,1.6348972621532472,up
+GSEA_GO,GO:0021953,central nervous system neuron differentiation,0.20016688761602427,-1.6336706652209003,down
+GSEA_GO,GO:0048644,muscle organ morphogenesis,0.2505083932043655,-1.6332247840873328,down
+GSEA_GO,GO:0060415,muscle tissue morphogenesis,0.2505083932043655,-1.6332247840873328,down
+GSEA_GO,GO:0030216,keratinocyte differentiation,0.18536383685978322,1.633206531126375,up
+GSEA_GO,GO:0071375,cellular response to peptide hormone stimulus,0.10962369604374514,1.6328996931743474,up
+GSEA_GO,GO:0015800,acidic amino acid transport,0.20113505478647598,-1.6317314176823126,down
+GSEA_GO,GO:0009063,amino acid catabolic process,0.20016688761602427,1.631477748949753,up
+GSEA_GO,GO:0042749,regulation of circadian sleep/wake cycle,0.2871523180548061,-1.6307136048919106,down
+GSEA_GO,GO:0042219,modified amino acid catabolic process,0.2939487294212437,1.630659424985405,up
+GSEA_GO,GO:0016051,carbohydrate biosynthetic process,0.12233279744702706,1.6304327333784627,up
+GSEA_GO,GO:0051591,response to cAMP,0.2018959672402158,1.6293450534772604,up
+GSEA_GO,GO:0052646,alditol phosphate metabolic process,0.2584708467138032,1.6292556552234487,up
+GSEA_GO,GO:0150115,cell-substrate junction organization,0.18422595585235282,1.629101166982727,up
+GSEA_GO,GO:0030225,macrophage differentiation,0.22282985815779288,-1.6275368366630654,down
+GSEA_GO,GO:0022410,circadian sleep/wake cycle process,0.20180149844086118,-1.6271824219968947,down
+GSEA_GO,GO:0002385,mucosal immune response,0.2628613452248919,1.6250889748870372,up
+GSEA_GO,GO:2000833,positive regulation of steroid hormone secretion,0.20016688761602427,1.6247295199342335,up
+GSEA_GO,GO:0097707,ferroptosis,0.2628613452248919,-1.6240570921758721,down
+GSEA_GO,GO:0030239,myofibril assembly,0.2628613452248919,1.6240339816416203,up
+GSEA_GO,GO:0010616,negative regulation of cardiac muscle adaptation,0.2549753249376465,1.6238154908372056,up
+GSEA_GO,GO:1903243,negative regulation of cardiac muscle hypertrophy in response to stress,0.2549753249376465,1.6238154908372056,up
+GSEA_GO,GO:0006111,regulation of gluconeogenesis,0.22282985815779288,1.6234000209987487,up
+GSEA_GO,GO:0038066,p38MAPK cascade,0.22282985815779288,1.6229760130845565,up
+GSEA_GO,GO:0055057,neuroblast division,0.2628613452248919,-1.622634243955915,down
+GSEA_GO,GO:0001885,endothelial cell development,0.24856951493508198,1.6225632101732201,up
+GSEA_GO,GO:0032276,regulation of gonadotropin secretion,0.2598418725088663,1.6215503082708937,up
+GSEA_GO,GO:1905203,regulation of connective tissue replacement,0.20016688761602427,1.6207572716277736,up
+GSEA_GO,GO:0030858,positive regulation of epithelial cell differentiation,0.26666411481401514,1.6199582652257536,up
+GSEA_GO,GO:1900026,positive regulation of substrate adhesion-dependent cell spreading,0.22757049274299365,1.6179660385094432,up
+GSEA_GO,GO:1903027,regulation of opsonization,0.30203061785978746,-1.6179094714898423,down
+GSEA_GO,GO:1903028,positive regulation of opsonization,0.30203061785978746,-1.6179094714898423,down
+GSEA_GO,GO:0061844,antimicrobial humoral immune response mediated by antimicrobial peptide,0.30081026900146274,-1.6178573653134292,down
+GSEA_GO,GO:0060384,innervation,0.2628613452248919,-1.6174323008856828,down
+GSEA_GO,GO:0005979,regulation of glycogen biosynthetic process,0.2628613452248919,1.6173866344155907,up
+GSEA_GO,GO:0010962,regulation of glucan biosynthetic process,0.2628613452248919,1.6173866344155907,up
+GSEA_GO,GO:0050654,chondroitin sulfate proteoglycan metabolic process,0.2549753249376465,1.6173544775749182,up
+GSEA_GO,GO:0051791,medium-chain fatty acid metabolic process,0.3774438935137104,1.6161727334150744,up
+GSEA_GO,GO:0034109,homotypic cell-cell adhesion,0.2671854790435535,1.6156206879756776,up
+GSEA_GO,GO:0055017,cardiac muscle tissue growth,0.24856951493508198,-1.6153570159411126,down
+GSEA_GO,GO:0032835,glomerulus development,0.3019961575880647,1.6145180127741585,up
+GSEA_GO,GO:0021675,nerve development,0.2783527719106298,-1.6142912016903548,down
+GSEA_GO,GO:0090596,sensory organ morphogenesis,0.18631156146990055,-1.6133509478543493,down
+GSEA_GO,GO:0021603,cranial nerve formation,0.2505083932043655,-1.6127637597407278,down
+GSEA_GO,GO:0061303,cornea development in camera-type eye,0.2165405021067563,1.6113258902206569,up
+GSEA_GO,GO:0170040,proteinogenic amino acid catabolic process,0.20016688761602427,1.6106648194405564,up
+GSEA_GO,GO:0001708,cell fate specification,0.2549753249376465,-1.6104199717324388,down
+GSEA_GO,GO:0043627,response to estrogen,0.20016688761602427,1.6103226215595678,up
+GSEA_GO,GO:0180064,protein O-linked glycosylation via xylose,0.25888315916896765,1.6072595306030646,up
+GSEA_GO,GO:0097709,connective tissue replacement,0.36382204414627867,1.6053153606864459,up
+GSEA_GO,GO:0003163,sinoatrial node development,0.22282985815779288,-1.6049412244333014,down
+GSEA_GO,GO:0002320,lymphoid progenitor cell differentiation,0.3369351594029877,-1.6043576787882043,down
+GSEA_GO,GO:0014745,negative regulation of muscle adaptation,0.35234925902759806,1.604187314278855,up
+GSEA_GO,GO:0060420,regulation of heart growth,0.28768798301139353,-1.6040681516491966,down
+GSEA_GO,GO:0099519,dense core granule cytoskeletal transport,0.36627944044618627,1.6018832043631683,up
+GSEA_GO,GO:1901950,dense core granule transport,0.36627944044618627,1.6018832043631683,up
+GSEA_GO,GO:0046628,positive regulation of insulin receptor signaling pathway,0.43924879164677993,1.6018009242147433,up
+GSEA_GO,GO:0070875,positive regulation of glycogen metabolic process,0.35162206030403154,1.6004221965887484,up
+GSEA_GO,GO:0071499,cellular response to laminar fluid shear stress,0.2744337453367989,-1.600256712718148,down
+GSEA_GO,GO:0016048,detection of temperature stimulus,0.28769549694987573,-1.5994412242969445,down
+GSEA_GO,GO:0010613,positive regulation of cardiac muscle hypertrophy,0.31261948954860763,1.5992333850349916,up
+GSEA_GO,GO:0014742,positive regulation of muscle hypertrophy,0.31261948954860763,1.5992333850349916,up
+GSEA_GO,GO:0032885,regulation of polysaccharide biosynthetic process,0.3809173677599726,1.5987211753158588,up
+GSEA_GO,GO:0042059,negative regulation of epidermal growth factor receptor signaling pathway,0.3809173677599726,1.597886932974843,up
+GSEA_GO,GO:0008643,carbohydrate transport,0.23368342309498938,1.5978116205392081,up
+GSEA_GO,GO:0045913,positive regulation of carbohydrate metabolic process,0.24856951493508198,1.5975797188946457,up
+GSEA_GO,GO:0019722,calcium-mediated signaling,0.20016688761602427,1.5974154083176235,up
+GSEA_GO,GO:0035633,maintenance of blood-brain barrier,0.33784893036648467,1.5969671088034543,up
+GSEA_GO,GO:0060219,camera-type eye photoreceptor cell differentiation,0.3369351594029877,-1.5951487709059706,down
+GSEA_GO,GO:0007044,cell-substrate junction assembly,0.2018959672402158,1.5948060963643407,up
+GSEA_GO,GO:0098974,postsynaptic actin cytoskeleton organization,0.38549658104846857,1.593413699291444,up
+GSEA_GO,GO:1903044,protein localization to membrane raft,0.3051423366486698,1.5925619614209023,up
+GSEA_GO,GO:0001783,B cell apoptotic process,0.4228402023129245,1.591915691804441,up
+GSEA_GO,GO:1903306,negative regulation of regulated secretory pathway,0.35234925902759806,-1.5911670221822123,down
+GSEA_GO,GO:0055081,monoatomic anion homeostasis,0.34475918042593506,-1.5911411079939504,down
+GSEA_GO,GO:0033762,response to glucagon,0.3369351594029877,-1.5909363592541936,down
+GSEA_GO,GO:0046337,phosphatidylethanolamine metabolic process,0.35234925902759806,1.5908103338962831,up
+GSEA_GO,GO:0033194,response to hydroperoxide,0.3394648242649133,1.5896952193293605,up
+GSEA_GO,GO:0033081,regulation of T cell differentiation in thymus,0.3586349222122808,-1.5879631533979275,down
+GSEA_GO,GO:0051447,negative regulation of meiotic cell cycle,0.36727337471081106,1.5877281305778075,up
+GSEA_GO,GO:0006790,sulfur compound metabolic process,0.12233279744702706,1.5860967068883631,up
+GSEA_GO,GO:0098586,cellular response to virus,0.24397874541652048,-1.5853961164604933,down
+GSEA_GO,GO:0055008,cardiac muscle tissue morphogenesis,0.2939487294212437,-1.584860972535564,down
+GSEA_GO,GO:0009264,deoxyribonucleotide catabolic process,0.2878518646823347,1.5843112284030987,up
+GSEA_GO,GO:0046386,deoxyribose phosphate catabolic process,0.2878518646823347,1.5843112284030987,up
+GSEA_GO,GO:0046626,regulation of insulin receptor signaling pathway,0.29502061410476016,1.5837358224912879,up
+GSEA_GO,GO:0001767,establishment of lymphocyte polarity,0.3711976876858768,1.5835989861527606,up
+GSEA_GO,GO:0033173,calcineurin-NFAT signaling cascade,0.34545279239210686,1.5833628517024012,up
+GSEA_GO,GO:0090103,cochlea morphogenesis,0.2628613452248919,-1.5833098905314353,down
+GSEA_GO,GO:0062013,positive regulation of small molecule metabolic process,0.2018959672402158,1.5826009254417335,up
+GSEA_GO,GO:0010812,negative regulation of cell-substrate adhesion,0.2981830151748126,1.582205665599017,up
+GSEA_GO,GO:2000508,regulation of dendritic cell chemotaxis,0.2628613452248919,-1.5820678771764838,down
+GSEA_GO,GO:0002717,positive regulation of natural killer cell mediated immunity,0.31544681864768415,-1.581642145484231,down
+GSEA_GO,GO:0003161,cardiac conduction system development,0.3595798181617287,-1.5804720333802194,down
+GSEA_GO,GO:1903764,regulation of potassium ion export across plasma membrane,0.33181015168245215,-1.5801343258177591,down
+GSEA_GO,GO:1902993,positive regulation of amyloid precursor protein catabolic process,0.34475918042593506,1.5793061989927564,up
+GSEA_GO,GO:0033574,response to testosterone,0.29953589012704523,1.5791461742178148,up
+GSEA_GO,GO:0050746,regulation of lipoprotein metabolic process,0.4367383466089696,1.5781026548880497,up
+GSEA_GO,GO:0042733,embryonic digit morphogenesis,0.35234925902759806,1.5780971746496573,up
+GSEA_GO,GO:0032230,"positive regulation of synaptic transmission, GABAergic",0.3394648242649133,1.5779642097834181,up
+GSEA_GO,GO:0001768,establishment of T cell polarity,0.4045601851051778,1.5775103036107325,up
+GSEA_GO,GO:0042537,benzene-containing compound metabolic process,0.35736571895285085,-1.5773288682210538,down
+GSEA_GO,GO:0003209,cardiac atrium morphogenesis,0.3195942528347143,-1.5771367685265627,down
+GSEA_GO,GO:0045662,negative regulation of myoblast differentiation,0.4397413076538085,-1.5765578062330854,down
+GSEA_GO,GO:1900078,positive regulation of cellular response to insulin stimulus,0.35234925902759806,1.5761113088217886,up
+GSEA_GO,GO:0110075,regulation of ferroptosis,0.2549753249376465,-1.5759733237772202,down
+GSEA_GO,GO:0045725,positive regulation of glycogen biosynthetic process,0.4481007482520342,1.57487134890392,up
+GSEA_GO,GO:0060292,long-term synaptic depression,0.42873041466577866,-1.5742987678375615,down
+GSEA_GO,GO:0007160,cell-matrix adhesion,0.1631274094383354,1.5733761295686974,up
+GSEA_GO,GO:0003208,cardiac ventricle morphogenesis,0.2549753249376465,-1.5725711414829084,down
+GSEA_GO,GO:0009756,carbohydrate mediated signaling,0.33784893036648467,-1.5723843320072886,down
+GSEA_GO,GO:0090336,positive regulation of brown fat cell differentiation,0.4077715499104006,-1.5723140731551717,down
+GSEA_GO,GO:0031069,hair follicle morphogenesis,0.3019961575880647,-1.5713688876306775,down
+GSEA_GO,GO:0048730,epidermis morphogenesis,0.3019961575880647,-1.5713688876306775,down
+GSEA_GO,GO:0140353,lipid export from cell,0.35234925902759806,1.5709558431221613,up
+GSEA_GO,GO:0043009,chordate embryonic development,0.12233279744702706,-1.5703855336852846,down
+GSEA_GO,GO:2000738,positive regulation of stem cell differentiation,0.3581931788639288,-1.5703303666462236,down
+GSEA_GO,GO:0006473,protein acetylation,0.30219926271381414,1.5692648939384664,up
+GSEA_GO,GO:0042428,serotonin metabolic process,0.3394648242649133,1.5692583398108468,up
+GSEA_GO,GO:0044282,small molecule catabolic process,0.1124585593325682,1.5688344337621771,up
+GSEA_GO,GO:0021542,dentate gyrus development,0.2735252682375257,-1.5687941295068313,down
+GSEA_GO,GO:1905953,negative regulation of lipid localization,0.3178126667111134,1.56773274107412,up
+GSEA_GO,GO:0003407,neural retina development,0.35234925902759806,-1.5675915269328116,down
+GSEA_GO,GO:0009757,hexose mediated signaling,0.3809173677599726,-1.5659376977580628,down
+GSEA_GO,GO:0010182,sugar mediated signaling pathway,0.3809173677599726,-1.5659376977580628,down
+GSEA_GO,GO:0010255,glucose mediated signaling pathway,0.3809173677599726,-1.5659376977580628,down
+GSEA_GO,GO:2001222,regulation of neuron migration,0.36627944044618627,-1.564891826260495,down
+GSEA_GO,GO:1904888,cranial skeletal system development,0.35234925902759806,-1.5647201409211107,down
+GSEA_GO,GO:1901077,regulation of relaxation of muscle,0.34484181189161506,1.5645340425095955,up
+GSEA_GO,GO:0050966,detection of mechanical stimulus involved in sensory perception of pain,0.32012979570785866,-1.5622245671125352,down
+GSEA_GO,GO:0014819,regulation of skeletal muscle contraction,0.4300805532950255,1.5611888505605434,up
+GSEA_GO,GO:2000311,regulation of AMPA receptor activity,0.3051423366486698,-1.5600069527614375,down
+GSEA_GO,GO:0097720,calcineurin-mediated signaling,0.2783527719106298,1.5597536528126026,up
+GSEA_GO,GO:1900006,positive regulation of dendrite development,0.35736571895285085,-1.55968272655,down
+GSEA_GO,GO:0090050,positive regulation of cell migration involved in sprouting angiogenesis,0.44456288115749565,-1.5596156092395557,down
+GSEA_GO,GO:0072537,fibroblast activation,0.4481007482520342,1.5588751458381693,up
+GSEA_GO,GO:0071635,negative regulation of transforming growth factor beta production,0.4402391583359379,1.558852216844394,up
+GSEA_GO,GO:0007411,axon guidance,0.16723915212933094,-1.5588488375981184,down
+GSEA_GO,GO:0071320,cellular response to cAMP,0.32756052310748446,1.558799924683955,up
+GSEA_GO,GO:0022409,positive regulation of cell-cell adhesion,0.15358835201476287,1.5577088733875402,up
+GSEA_GO,GO:0002251,organ or tissue specific immune response,0.43150035792016433,1.5576387144710868,up
+GSEA_GO,GO:0061178,regulation of insulin secretion involved in cellular response to glucose stimulus,0.3019961575880647,-1.55723118612688,down
+GSEA_GO,GO:0050731,positive regulation of peptidyl-tyrosine phosphorylation,0.36977932233929106,-1.5557737495475807,down
+GSEA_GO,GO:0032928,regulation of superoxide anion generation,0.33376322874268854,-1.555287593280844,down
+GSEA_GO,GO:0032930,positive regulation of superoxide anion generation,0.33376322874268854,-1.555287593280844,down
+GSEA_GO,GO:1905332,positive regulation of morphogenesis of an epithelium,0.33784893036648467,-1.5547669048368127,down
+GSEA_GO,GO:0060419,heart growth,0.3051423366486698,-1.5542770003520818,down
+GSEA_GO,GO:0006910,"phagocytosis, recognition",0.33667800759198735,-1.5542713129513581,down
+GSEA_GO,GO:0034219,carbohydrate transmembrane transport,0.26616174957837563,1.5533434396558763,up
+GSEA_GO,GO:0030195,negative regulation of blood coagulation,0.438234956361966,1.5531709760145418,up
+GSEA_GO,GO:1900047,negative regulation of hemostasis,0.438234956361966,1.5531709760145418,up
+GSEA_GO,GO:0007611,learning or memory,0.17294000977226073,-1.5525270154244448,down
+GSEA_GO,GO:0090199,regulation of release of cytochrome c from mitochondria,0.33784893036648467,-1.5522547069579529,down
+GSEA_GO,GO:0097485,neuron projection guidance,0.18422595585235282,-1.5515625843939624,down
+GSEA_GO,GO:0034616,response to laminar fluid shear stress,0.29953589012704523,-1.5515625315679638,down
+GSEA_GO,GO:0034105,positive regulation of tissue remodeling,0.3809173677599726,1.5513864810269011,up
+GSEA_GO,GO:0002566,somatic diversification of immune receptors via somatic mutation,0.44456288115749565,1.551129690176473,up
+GSEA_GO,GO:0016446,somatic hypermutation of immunoglobulin genes,0.44456288115749565,1.551129690176473,up
+GSEA_GO,GO:0045109,intermediate filament organization,0.3809173677599726,1.550486686911991,up
+GSEA_GO,GO:0009394,2'-deoxyribonucleotide metabolic process,0.26839542987112225,1.5500241802903492,up
+GSEA_GO,GO:0030258,lipid modification,0.20016688761602427,1.5484880377905799,up
+GSEA_GO,GO:0061458,reproductive system development,0.20193414955028965,1.5483972109223363,up
+GSEA_GO,GO:0001973,G protein-coupled adenosine receptor signaling pathway,0.3394648242649133,-1.544289158090456,down
+GSEA_GO,GO:0035588,G protein-coupled purinergic receptor signaling pathway,0.3394648242649133,-1.544289158090456,down
+GSEA_GO,GO:0009262,deoxyribonucleotide metabolic process,0.33181015168245215,1.544227559775175,up
+GSEA_GO,GO:0097352,autophagosome maturation,0.26327161428762147,1.5432829653990314,up
+GSEA_GO,GO:0048608,reproductive structure development,0.2363659829165492,1.5430798000629713,up
+GSEA_GO,GO:0002291,T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell,0.30219926271381414,-1.5422526607407854,down
+GSEA_GO,GO:0007266,Rho protein signal transduction,0.1892203022241242,1.5416085623043203,up
+GSEA_GO,GO:0044029,positive regulation of gene expression via chromosomal CpG island demethylation,0.44071827526489255,-1.541208491082646,down
+GSEA_GO,GO:0010457,centriole-centriole cohesion,0.35234925902759806,-1.5408734705781006,down
+GSEA_GO,GO:0003158,endothelium development,0.2628613452248919,1.5402629177660414,up
+GSEA_GO,GO:0061035,regulation of cartilage development,0.3375528915270064,1.536318564419788,up
+GSEA_GO,GO:0015980,energy derivation by oxidation of organic compounds,0.12233279744702706,1.5359576533368386,up
+GSEA_GO,GO:1904491,protein localization to ciliary transition zone,0.4228402023129245,-1.535897947843335,down
+GSEA_GO,GO:0016114,terpenoid biosynthetic process,0.3586349222122808,-1.5351831437431236,down
+GSEA_GO,GO:0038003,G protein-coupled opioid receptor signaling pathway,0.3195942528347143,-1.5347083411763744,down
+GSEA_GO,GO:0019755,one-carbon compound transport,0.21141729222965427,-1.5346102968037791,down
+GSEA_GO,GO:0044342,type B pancreatic cell proliferation,0.4077715499104006,1.533488805327871,up
+GSEA_GO,GO:0006665,sphingolipid metabolic process,0.24856951493508198,1.5327625472552608,up
+GSEA_GO,GO:0005978,glycogen biosynthetic process,0.37882891911269223,1.532231557819037,up
+GSEA_GO,GO:0009250,glucan biosynthetic process,0.37882891911269223,1.532231557819037,up
+GSEA_GO,GO:0019883,antigen processing and presentation of endogenous antigen,0.36627944044618627,-1.5308764329577988,down
+GSEA_GO,GO:0021761,limbic system development,0.26666411481401514,-1.5302612785814016,down
+GSEA_GO,GO:0014854,response to inactivity,0.4308758940423092,1.5296782138870524,up
+GSEA_GO,GO:0022612,gland morphogenesis,0.36977932233929106,-1.5291616219783215,down
+GSEA_GO,GO:2000253,positive regulation of feeding behavior,0.35234925902759806,1.5281758806255128,up
+GSEA_GO,GO:0045926,negative regulation of growth,0.20016688761602427,1.527058940926436,up
+GSEA_GO,GO:0045685,regulation of glial cell differentiation,0.33132280377219986,-1.5260642156518232,down
+GSEA_GO,GO:0140467,integrated stress response signaling,0.34383998882324346,-1.5240030066048196,down
+GSEA_GO,GO:0007369,gastrulation,0.3451772404535005,1.5232760926853135,up
+GSEA_GO,GO:0006633,fatty acid biosynthetic process,0.2628613452248919,1.5228264445573145,up
+GSEA_GO,GO:0141193,nuclear receptor-mediated signaling pathway,0.20016688761602427,1.5225532215696826,up
+GSEA_GO,GO:0007596,blood coagulation,0.20193414955028965,1.5224938908779078,up
+GSEA_GO,GO:0050817,coagulation,0.20193414955028965,1.5224938908779078,up
+GSEA_GO,GO:0034389,lipid droplet organization,0.33181015168245215,1.5223179634790156,up
+GSEA_GO,GO:0035904,aorta development,0.3664854936480873,-1.5212598436660596,down
+GSEA_GO,GO:0048706,embryonic skeletal system development,0.4036235363591976,-1.5205178458786586,down
+GSEA_GO,GO:0043434,response to peptide hormone,0.12233279744702706,1.519247165080887,up
+GSEA_GO,GO:0046629,gamma-delta T cell activation,0.4481007482520342,-1.5182586188306535,down
+GSEA_GO,GO:0006959,humoral immune response,0.2628613452248919,-1.517690854431585,down
+GSEA_GO,GO:2000351,regulation of endothelial cell apoptotic process,0.44456288115749565,1.5173267919201519,up
+GSEA_GO,GO:0030336,negative regulation of cell migration,0.1695287239155342,1.5159190298086853,up
+GSEA_GO,GO:1901890,positive regulation of cell junction assembly,0.2674943998850076,-1.5158337755210531,down
+GSEA_GO,GO:0000045,autophagosome assembly,0.2549753249376465,1.5151550888654508,up
+GSEA_GO,GO:0032743,positive regulation of interleukin-2 production,0.4481007482520342,1.514618979728261,up
+GSEA_GO,GO:0030330,"DNA damage response, signal transduction by p53 class mediator",0.2628613452248919,-1.5137099914520697,down
+GSEA_GO,GO:0031579,membrane raft organization,0.44456288115749565,1.513436374407009,up
+GSEA_GO,GO:0030856,regulation of epithelial cell differentiation,0.3540409502594337,1.5125435654827228,up
+GSEA_GO,GO:0035567,non-canonical Wnt signaling pathway,0.29953589012704523,1.51196343308708,up
+GSEA_GO,GO:0042311,vasodilation,0.4481007482520342,-1.5114292660810384,down
+GSEA_GO,GO:0002064,epithelial cell development,0.2628613452248919,1.5110477791143444,up
+GSEA_GO,GO:0007200,phospholipase C-activating G protein-coupled receptor signaling pathway,0.2725971450000705,-1.5103235316982109,down
+GSEA_GO,GO:0050767,regulation of neurogenesis,0.14618573621334036,-1.5099574514335112,down
+GSEA_GO,GO:0045214,sarcomere organization,0.44137945551923546,1.5089893813162596,up
+GSEA_GO,GO:0008593,regulation of Notch signaling pathway,0.2628613452248919,-1.5088801711235063,down
+GSEA_GO,GO:0006937,regulation of muscle contraction,0.26666411481401514,1.5088623442665352,up
+GSEA_GO,GO:0061351,neural precursor cell proliferation,0.23368342309498938,-1.508323972607879,down
+GSEA_GO,GO:2000146,negative regulation of cell motility,0.17976300727469496,1.5081418095374934,up
+GSEA_GO,GO:0016331,morphogenesis of embryonic epithelium,0.33784893036648467,-1.5069705326392533,down
+GSEA_GO,GO:0035773,insulin secretion involved in cellular response to glucose stimulus,0.2999619709396357,-1.5060997330984047,down
+GSEA_GO,GO:0010634,positive regulation of epithelial cell migration,0.4308758940423092,-1.5053092288007357,down
+GSEA_GO,GO:0046620,regulation of organ growth,0.32192415936616287,-1.5045134332821422,down
+GSEA_GO,GO:0009062,fatty acid catabolic process,0.2833015651857145,1.503990791441564,up
+GSEA_GO,GO:0007204,positive regulation of cytosolic calcium ion concentration,0.29407452688571994,-1.5035473722664146,down
+GSEA_GO,GO:0072329,monocarboxylic acid catabolic process,0.2674943998850076,1.5017104599068338,up
+GSEA_GO,GO:0006979,response to oxidative stress,0.12233279744702706,1.5011808928114314,up
+GSEA_GO,GO:0060412,ventricular septum morphogenesis,0.44456288115749565,-1.5010843372460656,down
+GSEA_GO,GO:0046683,response to organophosphorus,0.3528288076544357,1.5001972097455907,up
+GSEA_GO,GO:1905037,autophagosome organization,0.24407681501946454,1.4989538754700007,up
+GSEA_GO,GO:0032782,bile acid secretion,0.30081026900146274,-1.4975369755386434,down
+GSEA_GO,GO:0048041,focal adhesion assembly,0.32756052310748446,1.4967665465572373,up
+GSEA_GO,GO:1903409,reactive oxygen species biosynthetic process,0.44456288115749565,1.4954521490228403,up
+GSEA_GO,GO:0045165,cell fate commitment,0.20016688761602427,-1.4935101527529346,down
+GSEA_GO,GO:0007498,mesoderm development,0.35234925902759806,-1.4931354873591611,down
+GSEA_GO,GO:0014744,positive regulation of muscle adaptation,0.2939487294212437,1.4918230034607813,up
+GSEA_GO,GO:0098534,centriole assembly,0.36627944044618627,-1.4913657234936675,down
+GSEA_GO,GO:0009792,embryo development ending in birth or egg hatching,0.1822834896776032,-1.4903167697137083,down
+GSEA_GO,GO:0046887,positive regulation of hormone secretion,0.3375528915270064,1.4878185795815484,up
+GSEA_GO,GO:0007409,axonogenesis,0.12233279744702706,-1.4848366704379024,down
+GSEA_GO,GO:0061564,axon development,0.14127544417624935,-1.484511342746029,down
+GSEA_GO,GO:0045446,endothelial cell differentiation,0.2783527719106298,1.4832177855798565,up
+GSEA_GO,GO:0007610,behavior,0.1389436728120788,-1.4826527768344906,down
+GSEA_GO,GO:1901750,leukotriene D4 biosynthetic process,0.3051423366486698,1.4825138726100653,up
+GSEA_GO,GO:0048013,ephrin receptor signaling pathway,0.3178126667111134,-1.4809945630661228,down
+GSEA_GO,GO:0048593,camera-type eye morphogenesis,0.3887194356721225,-1.4804245490355912,down
+GSEA_GO,GO:0070542,response to fatty acid,0.4481007482520342,1.4785275795505084,up
+GSEA_GO,GO:0031632,positive regulation of synaptic vesicle fusion to presynaptic active zone membrane,0.35234925902759806,-1.4776606692114684,down
+GSEA_GO,GO:0099502,calcium-dependent activation of synaptic vesicle fusion,0.35234925902759806,-1.4776606692114684,down
+GSEA_GO,GO:1901634,positive regulation of synaptic vesicle membrane organization,0.35234925902759806,-1.4776606692114684,down
+GSEA_GO,GO:0003279,cardiac septum development,0.38005770083687,-1.477536767494445,down
+GSEA_GO,GO:0170062,nutrient storage,0.41447476401540007,1.476835039737223,up
+GSEA_GO,GO:0010496,intercellular transport,0.35234925902759806,-1.4767662579689165,down
+GSEA_GO,GO:0040013,negative regulation of locomotion,0.1917352706614459,1.4766364748104504,up
+GSEA_GO,GO:0030166,proteoglycan biosynthetic process,0.32809659298255844,1.4760104209145408,up
+GSEA_GO,GO:0022407,regulation of cell-cell adhesion,0.15358835201476287,1.4754771573208738,up
+GSEA_GO,GO:0030048,actin filament-based movement,0.2971004967590177,1.4749002034028518,up
+GSEA_GO,GO:0007612,learning,0.3073313246003301,-1.4720885992243342,down
+GSEA_GO,GO:0009913,epidermal cell differentiation,0.34475918042593506,1.4700543860172053,up
+GSEA_GO,GO:1905205,positive regulation of connective tissue replacement,0.33132280377219986,1.4699356525157303,up
+GSEA_GO,GO:0048241,epinephrine transport,0.36627944044618627,-1.4698326842789753,down
+GSEA_GO,GO:1904995,negative regulation of leukocyte adhesion to vascular endothelial cell,0.36627944044618627,-1.4688997086158944,down
+GSEA_GO,GO:0003014,renal system process,0.34484181189161506,-1.4674360351870888,down
+GSEA_GO,GO:0032355,response to estradiol,0.3876378055429525,1.466745992233178,up
+GSEA_GO,GO:0071248,cellular response to metal ion,0.2997698268679283,1.4633935934627864,up
+GSEA_GO,GO:0043266,regulation of potassium ion transport,0.3981631500012462,-1.462985173359127,down
+GSEA_GO,GO:0003231,cardiac ventricle development,0.3809173677599726,-1.4604461832887439,down
+GSEA_GO,GO:0019915,lipid storage,0.44456288115749565,1.4592531033373155,up
+GSEA_GO,GO:0033013,tetrapyrrole metabolic process,0.42904803197557306,-1.4581801520830941,down
+GSEA_GO,GO:0003333,amino acid transmembrane transport,0.2910321289008124,-1.458140025957198,down
+GSEA_GO,GO:0045778,positive regulation of ossification,0.4481007482520342,1.4580069878175026,up
+GSEA_GO,GO:0048255,mRNA stabilization,0.35234925902759806,1.4575895564193444,up
+GSEA_GO,GO:0048667,cell morphogenesis involved in neuron differentiation,0.1124585593325682,-1.456122981535188,down
+GSEA_GO,GO:0050804,modulation of chemical synaptic transmission,0.12233279744702706,-1.4547280772326912,down
+GSEA_GO,GO:0001676,long-chain fatty acid metabolic process,0.37882891911269223,1.4543268563322693,up
+GSEA_GO,GO:0007162,negative regulation of cell adhesion,0.21625103248364105,1.4542913661534904,up
+GSEA_GO,GO:0031669,cellular response to nutrient levels,0.22498875358626252,1.4521764902652945,up
+GSEA_GO,GO:0007599,hemostasis,0.32756052310748446,1.4520124505289354,up
+GSEA_GO,GO:0048738,cardiac muscle tissue development,0.2628613452248919,-1.4499390470053841,down
+GSEA_GO,GO:0045785,positive regulation of cell adhesion,0.18422595585235282,1.4486379401548848,up
+GSEA_GO,GO:1901343,negative regulation of vasculature development,0.36627944044618627,1.4480403928158236,up
+GSEA_GO,GO:0061448,connective tissue development,0.3178126667111134,1.4464927705110098,up
+GSEA_GO,GO:0007156,homophilic cell-cell adhesion,0.3498722688642516,-1.4458982640459106,down
+GSEA_GO,GO:0150076,neuroinflammatory response,0.44456288115749565,-1.4444027856125776,down
+GSEA_GO,GO:0050890,cognition,0.20016688761602427,-1.4438546847557663,down
+GSEA_GO,GO:0030198,extracellular matrix organization,0.22282985815779288,1.4431559656609745,up
+GSEA_GO,GO:0043062,extracellular structure organization,0.22282985815779288,1.4431559656609745,up
+GSEA_GO,GO:0030183,B cell differentiation,0.34475918042593506,-1.4429244361261406,down
+GSEA_GO,GO:0006941,striated muscle contraction,0.28074682845254434,1.4426074881781197,up
+GSEA_GO,GO:0097191,extrinsic apoptotic signaling pathway,0.20016688761602427,-1.4420669135901096,down
+GSEA_GO,GO:0099177,regulation of trans-synaptic signaling,0.12233279744702706,-1.4410077314158143,down
+GSEA_GO,GO:0006638,neutral lipid metabolic process,0.35234925902759806,1.4399462685431603,up
+GSEA_GO,GO:0006639,acylglycerol metabolic process,0.35234925902759806,1.4399462685431603,up
+GSEA_GO,GO:0060291,long-term synaptic potentiation,0.3586349222122808,-1.4396825315601873,down
+GSEA_GO,GO:0045229,external encapsulating structure organization,0.22267967922493137,1.4395768783052632,up
+GSEA_GO,GO:0050773,regulation of dendrite development,0.32192415936616287,-1.4394357626543575,down
+GSEA_GO,GO:0008544,epidermis development,0.3711976876858768,1.434831556619098,up
+GSEA_GO,GO:0016053,organic acid biosynthetic process,0.2549753249376465,1.4326764449816303,up
+GSEA_GO,GO:1905952,regulation of lipid localization,0.34475918042593506,1.4313959216135033,up
+GSEA_GO,GO:0046394,carboxylic acid biosynthetic process,0.2363659829165492,1.4292280464618594,up
+GSEA_GO,GO:0010959,regulation of metal ion transport,0.18536383685978322,-1.4287547695737055,down
+GSEA_GO,GO:0071383,cellular response to steroid hormone stimulus,0.30081026900146274,1.4262335969120892,up
+GSEA_GO,GO:1903845,negative regulation of cellular response to transforming growth factor beta stimulus,0.2725971450000705,1.4254439729793922,up
+GSEA_GO,GO:0006644,phospholipid metabolic process,0.198365253975126,1.4241410424357634,up
+GSEA_GO,GO:0030879,mammary gland development,0.4077715499104006,-1.4226694417229568,down
+GSEA_GO,GO:0006936,muscle contraction,0.2018959672402158,1.4206837061021924,up
+GSEA_GO,GO:0043270,positive regulation of monoatomic ion transport,0.35379659414598064,-1.4189018720919842,down
+GSEA_GO,GO:0030041,actin filament polymerization,0.42873041466577866,1.4167958696129481,up
+GSEA_GO,GO:0048545,response to steroid hormone,0.24856951493508198,1.415852134241373,up
+GSEA_GO,GO:0006631,fatty acid metabolic process,0.20183437117101302,1.4145626357119014,up
+GSEA_GO,GO:2001236,regulation of extrinsic apoptotic signaling pathway,0.3051423366486698,-1.413926342315547,down
+GSEA_GO,GO:0050806,positive regulation of synaptic transmission,0.3711976876858768,-1.4127066334968232,down
+GSEA_GO,GO:0001704,formation of primary germ layer,0.43150035792016433,1.4113299949020026,up
+GSEA_GO,GO:0032970,regulation of actin filament-based process,0.2018959672402158,1.4094490496031968,up
+GSEA_GO,GO:0010038,response to metal ion,0.2628613452248919,1.4066856637931544,up
+GSEA_GO,GO:0030162,regulation of proteolysis,0.3809173677599726,1.4063173119443924,up
+GSEA_GO,GO:0006029,proteoglycan metabolic process,0.44456288115749565,1.4061989991831254,up
+GSEA_GO,GO:0034764,positive regulation of transmembrane transport,0.4412371730018788,1.4054350950706436,up
+GSEA_GO,GO:0048167,regulation of synaptic plasticity,0.2671854790435535,-1.4048533619390422,down
+GSEA_GO,GO:0043409,negative regulation of MAPK cascade,0.4077715499104006,1.4030804107544113,up
+GSEA_GO,GO:0007015,actin filament organization,0.19661989674510674,1.4017995684852353,up
+GSEA_GO,GO:1903039,positive regulation of leukocyte cell-cell adhesion,0.2939487294212437,1.3985833889464883,up
+GSEA_GO,GO:0007098,centrosome cycle,0.2682793608919743,-1.3979441027305979,down
+GSEA_GO,GO:0016042,lipid catabolic process,0.2674943998850076,1.397350711866234,up
+GSEA_GO,GO:0046631,alpha-beta T cell activation,0.3586349222122808,1.3970199903700167,up
+GSEA_GO,GO:0045055,regulated exocytosis,0.3673075009722119,1.3957980493167463,up
+GSEA_GO,GO:0045444,fat cell differentiation,0.38748561732571307,1.3908129938443186,up
+GSEA_GO,GO:0050954,sensory perception of mechanical stimulus,0.4481007482520342,-1.3882953153629942,down
+GSEA_GO,GO:0006195,purine nucleotide catabolic process,0.3981631500012462,1.3866172394341487,up
+GSEA_GO,GO:0034599,cellular response to oxidative stress,0.2939487294212437,1.3862923464223273,up
+GSEA_GO,GO:0009267,cellular response to starvation,0.38748561732571307,1.3859141174327316,up
+GSEA_GO,GO:0007219,Notch signaling pathway,0.2939487294212437,-1.3843013244260587,down
+GSEA_GO,GO:0071900,regulation of protein serine/threonine kinase activity,0.41499933070961714,-1.382224001246631,down
+GSEA_GO,GO:0045786,negative regulation of cell cycle,0.20016688761602427,1.381547291618733,up
+GSEA_GO,GO:0043269,regulation of monoatomic ion transport,0.20016688761602427,-1.3815427720525615,down
+GSEA_GO,GO:0008154,actin polymerization or depolymerization,0.4228402023129245,1.3809963100293094,up
+GSEA_GO,GO:0046486,glycerolipid metabolic process,0.2628613452248919,1.376152421324771,up
+GSEA_GO,GO:0042060,wound healing,0.24856951493508198,1.367406371656363,up
+GSEA_GO,GO:0071453,cellular response to oxygen levels,0.38407365529514154,1.3661989257955929,up
+GSEA_GO,GO:0010811,positive regulation of cell-substrate adhesion,0.438234956361966,1.3660431375809634,up
+GSEA_GO,GO:0003205,cardiac chamber development,0.4080332239147499,-1.3633360233018852,down
+GSEA_GO,GO:1902905,positive regulation of supramolecular fiber organization,0.44071827526489255,1.3629404610100122,up
+GSEA_GO,GO:0010001,glial cell differentiation,0.33784893036648467,-1.3606398878675026,down
+GSEA_GO,GO:0051963,regulation of synapse assembly,0.37539148166144654,-1.3587448181139865,down
+GSEA_GO,GO:0006887,exocytosis,0.2556620044506709,1.357666051842317,up
+GSEA_GO,GO:0070665,positive regulation of leukocyte proliferation,0.4228402023129245,-1.3572712719781996,down
+GSEA_GO,GO:0072523,purine-containing compound catabolic process,0.4362244897959184,1.3550353543678362,up
+GSEA_GO,GO:0009100,glycoprotein metabolic process,0.32192415936616287,1.354454400695338,up
+GSEA_GO,GO:0007416,synapse assembly,0.2913257081518171,-1.3520201546344714,down
+GSEA_GO,GO:0001934,positive regulation of protein phosphorylation,0.3394648242649133,-1.3439763112302268,down
+GSEA_GO,GO:0042391,regulation of membrane potential,0.2549753249376465,-1.342795262857281,down
+GSEA_GO,GO:0042113,B cell activation,0.34424306668727844,-1.340607974083471,down
+GSEA_GO,GO:0014706,striated muscle tissue development,0.3051423366486698,-1.3313125675985813,down
+GSEA_GO,GO:0035966,response to topologically incorrect protein,0.4286277487369682,1.3304251760704502,up
+GSEA_GO,GO:0007517,muscle organ development,0.3752283289654297,-1.329329289715446,down
+GSEA_GO,GO:0019216,regulation of lipid metabolic process,0.4097571991911321,1.3286042422613498,up
+GSEA_GO,GO:0042770,signal transduction in response to DNA damage,0.3770269735360869,-1.3276669014031195,down
+GSEA_GO,GO:0001932,regulation of protein phosphorylation,0.27306013286017394,-1.3259303261815636,down
+GSEA_GO,GO:0040008,regulation of growth,0.2783527719106298,1.3249616474803367,up
+GSEA_GO,GO:0009611,response to wounding,0.32192415936616287,1.324300150624303,up
+GSEA_GO,GO:0001666,response to hypoxia,0.37882891911269223,1.3230998287635918,up
+GSEA_GO,GO:0003018,vascular process in circulatory system,0.4276229535751505,1.3224846115836828,up
+GSEA_GO,GO:0034762,regulation of transmembrane transport,0.44456288115749565,1.3221836348640623,up
+GSEA_GO,GO:0003007,heart morphogenesis,0.4228402023129245,-1.321816439276394,down
+GSEA_GO,GO:0016236,macroautophagy,0.30219926271381414,1.3207395416323364,up
+GSEA_GO,GO:0031667,response to nutrient levels,0.2725971450000705,1.3204288138684501,up
+GSEA_GO,GO:0062197,cellular response to chemical stress,0.3981631500012462,1.3195200463610015,up
+GSEA_GO,GO:1904062,regulation of monoatomic cation transmembrane transport,0.3809173677599726,-1.318015376601445,down
+GSEA_GO,GO:0032956,regulation of actin cytoskeleton organization,0.37882891911269223,1.3179696229533542,up
+GSEA_GO,GO:0006091,generation of precursor metabolites and energy,0.33132280377219986,1.3160465648346193,up
+GSEA_GO,GO:0010720,positive regulation of cell development,0.26666411481401514,-1.3151069694715694,down
+GSEA_GO,GO:0042594,response to starvation,0.43150035792016433,1.3143320660644024,up
+GSEA_GO,GO:0010975,regulation of neuron projection development,0.3455148532636897,-1.312068209529411,down
+GSEA_GO,GO:0036293,response to decreased oxygen levels,0.4228402023129245,1.3096052113033065,up
+GSEA_GO,GO:0001837,epithelial to mesenchymal transition,0.4481007482520342,-1.3091834428005127,down
+GSEA_GO,GO:1903532,positive regulation of secretion by cell,0.44456288115749565,1.3087209069202854,up
+GSEA_GO,GO:0009101,glycoprotein biosynthetic process,0.44137945551923546,1.3037083877477642,up
+GSEA_GO,GO:0010876,lipid localization,0.35234925902759806,1.301275659531204,up
+GSEA_GO,GO:0045017,glycerolipid biosynthetic process,0.42675421593332047,1.3011015532298462,up
+GSEA_GO,GO:0006869,lipid transport,0.3981631500012462,1.3003662695021934,up
+GSEA_GO,GO:0060537,muscle tissue development,0.3926761915140952,-1.2961271366568914,down
+GSEA_GO,GO:0007423,sensory organ development,0.36627944044618627,-1.2933802243107437,down
+GSEA_GO,GO:0001503,ossification,0.4481007482520342,1.2898328158887125,up
+GSEA_GO,GO:0030522,intracellular receptor signaling pathway,0.417830454657433,1.2870008944684683,up
+GSEA_GO,GO:0055080,monoatomic cation homeostasis,0.4228402023129245,1.2857235428471427,up
+GSEA_GO,GO:0006935,chemotaxis,0.32809659298255844,-1.2840875516084207,down
+GSEA_GO,GO:0042330,taxis,0.32809659298255844,-1.2840875516084207,down
+GSEA_GO,GO:0009314,response to radiation,0.3019961575880647,-1.2818113404985165,down
+GSEA_GO,GO:0070482,response to oxygen levels,0.43074101247248714,1.266020166312767,up
+GSEA_GO,GO:0007507,heart development,0.37882891911269223,-1.2569643856073183,down
+GSEA_GO,GO:0050803,regulation of synapse structure or activity,0.4481007482520342,-1.2563530654901893,down
+GSEA_GO,GO:0050807,regulation of synapse organization,0.43150035792016433,-1.2475532009547134,down
+GSEA_GO,GO:0042325,regulation of phosphorylation,0.40936352413538274,-1.246529084489567,down
+GSEA_GO,GO:0048589,developmental growth,0.3394648242649133,-1.2462438892142274,down
+GSEA_GO,GO:1903131,mononuclear cell differentiation,0.44071827526489255,-1.2011637846795515,down
+GSEA_GO,NA,NA,NA,NA,NA
+GSEA_GO,NA,NA,NA,NA,NA
+GSEA_GO,NA,NA,NA,NA,NA
+GSEA_GO,NA,NA,NA,NA,NA
+GSEA_GO,NA,NA,NA,NA,NA
+GSEA_GO,NA,NA,NA,NA,NA
+GSEA_GO,NA,NA,NA,NA,NA
+GSEA_GO,NA,NA,NA,NA,NA
+GSEA_GO,NA,NA,NA,NA,NA

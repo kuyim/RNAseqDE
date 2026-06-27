@@ -140,3 +140,33 @@ Reset to 6 CPUs and 14GB RAM in config file, 24GB, 8 processors, 12GB swap in .w
 Main fix was moving Ubuntu to D drive and freeing up 190GB of space from ext4.vhdx file that was not clearing properly.
 
 After migrating Ubuntu to D drive, was able to run the pipeline on all 8 samples but somehow overnight, the ext4 file was corrupted and forced the file system to read only. Copied important files back to Windows to complete R differential expression analysis.
+
+# DESeq2 Analysis
+Ran the following code in R console to install packages:
+```
+renv::init() # Making sure in correct pwd first
+# Can run the following lines to ensure renv is working properly
+renv::status()
+.libPaths()
+
+install.packages(c("tidyverse", "pheatmap", "renv"))
+
+if (!requireNamespace("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+
+BiocManager::install(c("DESeq2", "apeglm"))
+renv::snapshot()
+```
+
+# Insert short writeup about DESeq2 and results here
+Significant genes (padj < 0.05): 3910 (26.9% of 14529 tested) \
+Up   (log2FC > 0): 2109 (14.5%) \
+Down (log2FC < 0): 1801 (12.4%)
+
+
+# Enrichment Analysis
+Genes mapped to Entrez: 12782 of 14529 \
+Signficant genes (padj < 0.05) mapped: 3608
+
+
+
